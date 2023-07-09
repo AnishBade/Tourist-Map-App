@@ -1,24 +1,43 @@
-import logo from './logo.svg';
-import './App.css';
+
+import MapList from './MapList';
+
+import React from 'react'
+
+import ViewMap from './ViewMap';
+import MarkState from './context/MarkState';
+import MarkersState from './context/MarkersState';
 
 function App() {
+
+  
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+     
+        <div className='row'>
+          <MarkState>
+            <div className='col-md-8'>
+              <MarkersState>
+                <ViewMap />
+              </MarkersState>
+              
+            
+            
+            </div>
+
+            <div className='col-md-4'>
+              <MarkersState>
+                <MapList />
+              </MarkersState>
+              
+            </div>
+          </MarkState>
+          
+          
+        </div>
+      
+    </>
+    
+     
   );
 }
 
