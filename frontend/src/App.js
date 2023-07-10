@@ -12,29 +12,28 @@ function App() {
   
   return (
     <>
-     
-        <div className='row'>
-          <MarkState>
-            <div className='col-md-8'>
-              <MarkersState>
-                <ViewMap />
-              </MarkersState>
-              
-            
-            
-            </div>
 
-            <div className='col-md-4'>
-              <MarkersState>
+      <div className="row">
+        <MarkState>
+          <div className="col-md-8">
+            <MarkersState>
+              <div style={{ height: '100vh' }}>
+                <ViewMap />
+              </div>
+            </MarkersState>
+          </div>
+
+          <div className="col-md-4">
+            <MarkersState>
+              <div style={{ maxHeight: '100vh', overflowY: 'auto' }}>
                 <MapList />
-              </MarkersState>
-              
-            </div>
-          </MarkState>
-          
-          
-        </div>
-      
+              </div>
+            </MarkersState>
+          </div>
+        </MarkState>
+      </div>
+
+
     </>
     
      
