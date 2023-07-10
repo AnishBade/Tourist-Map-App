@@ -4,9 +4,9 @@ import './styles.css';
 import "leaflet/dist/leaflet.css";
 import {Icon, divIcon} from "leaflet";
 import MarkerClusterGroup from "react-leaflet-cluster";
-import { getlocation} from './ApiService'
-import React, { useEffect, useState, useContext } from 'react'
-import {MapContainer, TileLayer, Marker, Popup} from "react-leaflet"
+import { getlocation} from './ApiService';
+import React, { useEffect, useState, useContext } from 'react';
+import {MapContainer, TileLayer, Marker, Popup} from "react-leaflet";
 import MarkersContext from './context/MarkersContext';
 import MarkersState from './context/MarkersState';
 
@@ -64,15 +64,15 @@ export default function ViewMap() {
     //   name: "Hello, I am pop up 3"
     // }
   ];
-  // console.log(mark);
-
+  // console.log(markers[1]);
+  // console.log(markers1);
   const customIcon = new Icon({
     iconUrl: require("./img/marker-icon.png"),
-    iconSize: [38,38]
+    iconSize: [25,25]
   });
   const customIconBlue = new Icon({
     iconUrl: require("./img/marker-icon-blue.png"),
-    iconSize: [45,45]
+    iconSize: [35,35]
   });
 
   const createCustomClusterIcon = (cluster) =>{

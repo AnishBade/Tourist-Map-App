@@ -19,8 +19,8 @@ const MarkersState = (props) =>{
     // Extract the coordinates from the "coordinates" field
     const regex = /POINT \(([-.\d]+) ([-.\d]+)\)/;
     const match = obj.coordinates.match(regex);
-    const latitude = parseFloat(match[1]);
-    const longitude = parseFloat(match[2]);
+    const longitude = parseFloat(match[1]);
+    const latitude = parseFloat(match[2]);
 
     // Create a new object with the extracted coordinates
     const geocode = [latitude, longitude];
@@ -39,7 +39,7 @@ const MarkersState = (props) =>{
 
     
   }
-    
+    // console.log(markers[0].geocode);
 
     return (
 

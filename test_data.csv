@@ -1,0 +1,5 @@
+name,tourism,email,phone,website,coordinates
+Namaskar,guest_house,NULL,NULL,NULL,POINT(85.3112782 27.7161924)
+Iceland,hotel,NULL,NULL,NULL,POINT(85.3101463 27.7164382)
+Impala,hotel,NULL,NULL,NULL,POINT(85.3101951 27.7175447)
+Karma,hotel,NULL,NULL,NULL,POINT(85.3109255 27.7163128)
