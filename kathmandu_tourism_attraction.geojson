@@ -1,0 +1,2574 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-07-10T14:47:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/56688296",
+        "addr:postcode": "977",
+        "addr:street": "Boudha Main Road",
+        "amenity": "place_of_worship",
+        "barrier": "wall",
+        "building:colour": "white",
+        "email": "lotusbazra@boudhanathstupa.org",
+        "height": "2",
+        "name": "Boudhanāth Stupa",
+        "name:ne": "बौद्धनाथ स्तूप",
+        "phone": "+977 01 4471908",
+        "religion": "buddhist",
+        "roof:colour": "white",
+        "tourism": "attraction",
+        "website": "http://boudhanathstupa.org/#_home",
+        "wheelchair": "yes",
+        "width": "0.6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3615237,
+              27.7215002
+            ],
+            [
+              85.3615224,
+              27.7213293
+            ],
+            [
+              85.3615948,
+              27.7211756
+            ],
+            [
+              85.361761,
+              27.7210325
+            ],
+            [
+              85.3620775,
+              27.7209981
+            ],
+            [
+              85.3622827,
+              27.7210681
+            ],
+            [
+              85.3624745,
+              27.7212723
+            ],
+            [
+              85.3625483,
+              27.7213305
+            ],
+            [
+              85.3625657,
+              27.7214516
+            ],
+            [
+              85.3624953,
+              27.721505
+            ],
+            [
+              85.3624304,
+              27.7215924
+            ],
+            [
+              85.3623886,
+              27.7216943
+            ],
+            [
+              85.3622305,
+              27.7218326
+            ],
+            [
+              85.3621109,
+              27.7218713
+            ],
+            [
+              85.3620111,
+              27.721888
+            ],
+            [
+              85.3619045,
+              27.721873
+            ],
+            [
+              85.3617135,
+              27.7217864
+            ],
+            [
+              85.36159,
+              27.7216689
+            ],
+            [
+              85.3615237,
+              27.7215002
+            ]
+          ]
+        ]
+      },
+      "id": "way/56688296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/70954208",
+        "amenity": "drinking_water",
+        "historic": "monument",
+        "name": "Sundhara",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3123425,
+              27.7009755
+            ],
+            [
+              85.312293,
+              27.7007177
+            ],
+            [
+              85.3125918,
+              27.7006724
+            ],
+            [
+              85.3126387,
+              27.7009308
+            ],
+            [
+              85.3123425,
+              27.7009755
+            ]
+          ]
+        ]
+      },
+      "id": "way/70954208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/80913260",
+        "damage:event": "nepal_earthquake_2015",
+        "emergency:helipad": "potential",
+        "leisure": "common",
+        "name": "Yetkha Bahal",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3064132,
+              27.7068945
+            ],
+            [
+              85.3063207,
+              27.7065591
+            ],
+            [
+              85.3067022,
+              27.7064767
+            ],
+            [
+              85.306751,
+              27.7066629
+            ],
+            [
+              85.3067946,
+              27.7068121
+            ],
+            [
+              85.3064132,
+              27.7068945
+            ]
+          ]
+        ]
+      },
+      "id": "way/80913260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/85650618",
+        "fee": "yes",
+        "leisure": "park",
+        "name": "Garden of Dreams",
+        "toilets:wheelchair": "no",
+        "tourism": "attraction",
+        "website": "https://gardenofdreams.org.np/",
+        "wheelchair": "no",
+        "wikidata": "Q5522383"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3152486,
+              27.7137492
+            ],
+            [
+              85.3153702,
+              27.7139695
+            ],
+            [
+              85.3154536,
+              27.7144532
+            ],
+            [
+              85.3143927,
+              27.714453
+            ],
+            [
+              85.3142436,
+              27.7144609
+            ],
+            [
+              85.3142318,
+              27.7142735
+            ],
+            [
+              85.3142002,
+              27.7139301
+            ],
+            [
+              85.3147106,
+              27.7138577
+            ],
+            [
+              85.314918,
+              27.7137874
+            ],
+            [
+              85.3152486,
+              27.7137492
+            ]
+          ]
+        ]
+      },
+      "id": "way/85650618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/183563646",
+        "historic": "monument",
+        "name": "Taleju Bell",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3067033,
+              27.7045245
+            ],
+            [
+              85.3067314,
+              27.704587
+            ],
+            [
+              85.3066574,
+              27.7046132
+            ],
+            [
+              85.3066292,
+              27.7045508
+            ],
+            [
+              85.3067033,
+              27.7045245
+            ]
+          ]
+        ]
+      },
+      "id": "way/183563646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/193622926",
+        "historic": "memorial",
+        "name": "Pushpalal Shrestha",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.2514207,
+              27.6583843
+            ],
+            [
+              85.2514455,
+              27.6583689
+            ],
+            [
+              85.2514738,
+              27.6583617
+            ],
+            [
+              85.2515033,
+              27.6583629
+            ],
+            [
+              85.2515308,
+              27.6583723
+            ],
+            [
+              85.2515534,
+              27.6583891
+            ],
+            [
+              85.2515687,
+              27.6584114
+            ],
+            [
+              85.2515752,
+              27.6584369
+            ],
+            [
+              85.2515721,
+              27.6584629
+            ],
+            [
+              85.2515598,
+              27.6584867
+            ],
+            [
+              85.2515395,
+              27.6585057
+            ],
+            [
+              85.2515127,
+              27.6585181
+            ],
+            [
+              85.2514828,
+              27.6585221
+            ],
+            [
+              85.251453,
+              27.6585171
+            ],
+            [
+              85.2514267,
+              27.6585038
+            ],
+            [
+              85.2514069,
+              27.6584835
+            ],
+            [
+              85.2513956,
+              27.6584586
+            ],
+            [
+              85.2513943,
+              27.6584318
+            ],
+            [
+              85.2514029,
+              27.6584061
+            ],
+            [
+              85.2514207,
+              27.6583843
+            ]
+          ]
+        ]
+      },
+      "id": "way/193622926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/194744621",
+        "addr:street": "Durbar Marg",
+        "amenity": "clock",
+        "building": "tower",
+        "historic": "monument",
+        "int_name": "Ghantaghar",
+        "name": "Ghantaghar",
+        "name:en": "Trichandra Campus",
+        "name:ne": "घण्टाघर",
+        "tourism": "attraction",
+        "wheelchair": "limited",
+        "wikidata": "Q11205395"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3167985,
+              27.7074576
+            ],
+            [
+              85.316819,
+              27.7074546
+            ],
+            [
+              85.3168395,
+              27.707458
+            ],
+            [
+              85.3168563,
+              27.7074664
+            ],
+            [
+              85.3168693,
+              27.7074791
+            ],
+            [
+              85.3168771,
+              27.7074947
+            ],
+            [
+              85.316879,
+              27.7075117
+            ],
+            [
+              85.3168748,
+              27.7075284
+            ],
+            [
+              85.3168649,
+              27.7075431
+            ],
+            [
+              85.3168502,
+              27.7075543
+            ],
+            [
+              85.3168324,
+              27.7075608
+            ],
+            [
+              85.3168131,
+              27.7075621
+            ],
+            [
+              85.3167944,
+              27.7075579
+            ],
+            [
+              85.316777,
+              27.7075478
+            ],
+            [
+              85.3167644,
+              27.7075332
+            ],
+            [
+              85.3167581,
+              27.7075157
+            ],
+            [
+              85.3167589,
+              27.7074973
+            ],
+            [
+              85.3167666,
+              27.7074802
+            ],
+            [
+              85.3167804,
+              27.7074665
+            ],
+            [
+              85.3167985,
+              27.7074576
+            ]
+          ]
+        ]
+      },
+      "id": "way/194744621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/199483682",
+        "area": "yes",
+        "name": "Lam Chok",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3070015,
+              27.7040971
+            ],
+            [
+              85.3069836,
+              27.7040152
+            ],
+            [
+              85.3071758,
+              27.7039823
+            ],
+            [
+              85.3071937,
+              27.7040642
+            ],
+            [
+              85.3070015,
+              27.7040971
+            ]
+          ]
+        ]
+      },
+      "id": "way/199483682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/199483689",
+        "area": "yes",
+        "name": "Dahk Chok",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3070242,
+              27.7042236
+            ],
+            [
+              85.3072204,
+              27.7041944
+            ],
+            [
+              85.3072476,
+              27.7043377
+            ],
+            [
+              85.3070514,
+              27.7043669
+            ],
+            [
+              85.3070242,
+              27.7042236
+            ]
+          ]
+        ]
+      },
+      "id": "way/199483689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/199484514",
+        "area": "yes",
+        "name": "Nucha Chok",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3067015,
+              27.7041943
+            ],
+            [
+              85.3066747,
+              27.7040621
+            ],
+            [
+              85.3068145,
+              27.7040399
+            ],
+            [
+              85.3068412,
+              27.7041721
+            ],
+            [
+              85.3067015,
+              27.7041943
+            ]
+          ]
+        ]
+      },
+      "id": "way/199484514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1936280991",
+        "name": "Jyapu Niwas",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3350586,
+          27.6825671
+        ]
+      },
+      "id": "node/1936280991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2206275697",
+        "historic": "monument",
+        "man_made": "mast",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3012535,
+          27.7640022
+        ]
+      },
+      "id": "node/2206275697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3944316658",
+        "addr:city": "singhupalchwok",
+        "name": "Shankhapura Paragliding Take off site",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.501957,
+          27.7751432
+        ]
+      },
+      "id": "node/3944316658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4114557091",
+        "addr:housenumber": "Narayan Basti",
+        "addr:street": "Satungal Road",
+        "name": "Anup Home",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2530693,
+          27.6852451
+        ]
+      },
+      "id": "node/4114557091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4121409191",
+        "addr:street": "Sai Ram Marga",
+        "email": "getme_max@hotmail.com",
+        "name": "Er. Abeey Poudel Flat",
+        "name:en": "Er. Abhiyan Poudel Flat",
+        "opening_hours": "Su-Fr 10:00-22:00",
+        "phone": "+9779851055745",
+        "tourism": "attraction",
+        "website": "www.buildup.com.np"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3397631,
+          27.7492953
+        ]
+      },
+      "id": "node/4121409191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4168500390",
+        "addr:city": "Kathmandu",
+        "addr:postcode": "44600",
+        "addr:street": "Balaju, Manamaiju",
+        "name": "Manamaiju Ajima Mai Temple",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3121403,
+          27.7520771
+        ]
+      },
+      "id": "node/4168500390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4284551294",
+        "addr:street": "Kalanki Chowk",
+        "name": "S-Style Dance Institute",
+        "opening_hours": "Su-Fr 06:00-19:00",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.282051,
+          27.6932073
+        ]
+      },
+      "id": "node/4284551294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4285982489",
+        "addr:street": "Sahid Basu Smriti Marga",
+        "name": "Club Galaxy",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2778476,
+          27.6912275
+        ]
+      },
+      "id": "node/4285982489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4309250491",
+        "addr:street": "Krishna marga",
+        "email": "noyel.amr@gmail.com",
+        "name": "Noyel House",
+        "name:hi": "noyel",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "phone": "9867170004",
+        "tourism": "attraction",
+        "website": "http://noyelz.blogspot.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3452556,
+          27.6735715
+        ]
+      },
+      "id": "node/4309250491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4315862893",
+        "name": "Nilopul, Sukedhara",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3494489,
+          27.7313342
+        ]
+      },
+      "id": "node/4315862893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4370635890",
+        "addr:street": "Saraswati Marga",
+        "name": "Florid human resources",
+        "opening_hours": "Su-Fr 10:00-22:00",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3320967,
+          27.6909767
+        ]
+      },
+      "id": "node/4370635890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4374460896",
+        "addr:street": "Museum marg",
+        "name": "Incessant Rain Animation Studio",
+        "opening_hours": "24/7",
+        "phone": "014302445",
+        "tourism": "attraction",
+        "website": "https://www.incessantrain.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2970221,
+          27.7038178
+        ]
+      },
+      "id": "node/4374460896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4375878590",
+        "name:en": "Itakhel",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.472614,
+          27.7176395
+        ]
+      },
+      "id": "node/4375878590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4388527091",
+        "name": "वसन्तपुर दरबार क्षेत्र",
+        "name:ar": "ساحة دوربار كاتماندو",
+        "name:de": "Kathmandu Durbar Square",
+        "name:en": "Basantapur Durbar Square",
+        "name:hi": "काठमांडू दरबार चौक",
+        "name:ko": "더르바르 광장",
+        "place": "square",
+        "toilets:wheelchair": "no",
+        "tourism": "attraction",
+        "wheelchair": "no",
+        "wikidata": "Q6122177",
+        "wikipedia": "en:Kathmandu Durbar Square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3069725,
+          27.7045198
+        ]
+      },
+      "id": "node/4388527091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4411936790",
+        "addr:housenumber": "9863644073",
+        "addr:street": "Jorpati Main Road",
+        "name": "Jorpati Main Road",
+        "name:en": "Posh Fashionista Boutique",
+        "opening_hours": "Mo-Su 08:00-19:30",
+        "shop": "clothes",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3726342,
+          27.7219112
+        ]
+      },
+      "id": "node/4411936790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4412720712",
+        "addr:street": "Matathirtha Road",
+        "name:en": "Matathirtha",
+        "opening_hours": "24/7",
+        "phone": "9808395336",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2329982,
+          27.6757969
+        ]
+      },
+      "id": "node/4412720712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4429160189",
+        "name:en": "Start of village walk (kartike)",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.5154378,
+          27.731879
+        ]
+      },
+      "id": "node/4429160189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4440023291",
+        "building": "temple",
+        "name": "पशुपतीनाथ",
+        "name:en": "Pashupatinath Temple",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3487444,
+          27.7105652
+        ]
+      },
+      "id": "node/4440023291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4443907289",
+        "addr:street": "Tokha Road",
+        "name:en": "surya narayan shrestha niwas",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3191063,
+          27.7366879
+        ]
+      },
+      "id": "node/4443907289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4476183189",
+        "name": "Scarf of life",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3122221,
+          27.7112735
+        ]
+      },
+      "id": "node/4476183189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4523101790",
+        "email": "shangrilacashmere@gmail.com",
+        "name:en": "Shangrila Silk and Pashmina",
+        "opening_hours": "Su-Fr 09:00-17:00",
+        "phone": "+9774370776",
+        "tourism": "attraction",
+        "website": "http://shangrilacashmere.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3540069,
+          27.7465803
+        ]
+      },
+      "id": "node/4523101790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4533176868",
+        "building": "yes",
+        "historic": "monument",
+        "name": "Hyumat",
+        "name:ko": "휴맛",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3039574,
+          27.6994087
+        ]
+      },
+      "id": "node/4533176868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4551982690",
+        "addr:postcode": "44600",
+        "addr:street": "Tokha Road",
+        "name:en": "Shubha Homes Housing Apartments",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3290088,
+          27.7560092
+        ]
+      },
+      "id": "node/4551982690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4567268393",
+        "addr:street": "Kalanki Chowk",
+        "name:en": "S-Style Dance Institute",
+        "opening_hours": "Su-Fr 06:00-19:00",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2807383,
+          27.6940828
+        ]
+      },
+      "id": "node/4567268393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4574290292",
+        "addr:housenumber": "60",
+        "addr:postcode": "600001",
+        "addr:street": "Manamati Marg",
+        "name:en": "Kohinoor Hill Housing Bafal",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2855631,
+          27.6973407
+        ]
+      },
+      "id": "node/4574290292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4579208890",
+        "name:en": "Sarike",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3547341,
+          27.7296379
+        ]
+      },
+      "id": "node/4579208890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4593716693",
+        "name:ca": "nepali",
+        "name:en": "Shreekrishna Mandir Tole",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3640305,
+          27.7797535
+        ]
+      },
+      "id": "node/4593716693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4593866589",
+        "name:en": "Tika's land",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2813053,
+          27.7567213
+        ]
+      },
+      "id": "node/4593866589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4616139789",
+        "name:en": "Subisu Customer Care",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3314464,
+          27.724969
+        ]
+      },
+      "id": "node/4616139789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4677662989",
+        "name:en": "ghar balwapati",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3181187,
+          27.7503466
+        ]
+      },
+      "id": "node/4677662989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4686199738",
+        "addr:housenumber": "171/53",
+        "addr:postcode": "977",
+        "addr:street": "Bhimsen Marga",
+        "email": "mail@prizmadigital.com",
+        "name:en": "Prizma Digital Media",
+        "opening_hours": "24/7",
+        "phone": "9861288314",
+        "tourism": "attraction",
+        "website": "https://www.prizmadigital.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3352484,
+          27.7198217
+        ]
+      },
+      "id": "node/4686199738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4687966890",
+        "name:en": "BHANDARI HOME",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3744119,
+          27.6974354
+        ]
+      },
+      "id": "node/4687966890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4699485091",
+        "addr:street": "Dhobidhara Marga",
+        "email": "sharmabhuahan@hotmail.com",
+        "name:en": "Solution Wizard Services",
+        "opening_hours": "Su-Fr 09:00-18:00",
+        "phone": "9841265920",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3230087,
+          27.7060516
+        ]
+      },
+      "id": "node/4699485091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4703258189",
+        "name:en": "«The International Society for Krishna Consciousness»",
+        "name:ru": "\"Международное Общество Сознания Кришны\"",
+        "opening_hours": "Mo-Su 09:00-17:00",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3569518,
+          27.7840553
+        ]
+      },
+      "id": "node/4703258189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4723573589",
+        "addr:housenumber": "143",
+        "addr:postcode": "00779",
+        "addr:street": "Gauri Marga",
+        "email": "www.road2model@gmail.com",
+        "name:en": "Road 2 Model",
+        "opening_hours": "Su-Fr",
+        "phone": "9779860712637",
+        "tourism": "attraction",
+        "website": "http://www.road2model.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3500226,
+          27.689279
+        ]
+      },
+      "id": "node/4723573589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4760051522",
+        "name:en": "Transport nagar",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2882238,
+          27.7198431
+        ]
+      },
+      "id": "node/4760051522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4770653126",
+        "name:en": "Rock climbing crag",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2580172,
+          27.6368202
+        ]
+      },
+      "id": "node/4770653126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4789397435",
+        "name:en": "North Kathmandu",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2969186,
+          27.76813
+        ]
+      },
+      "id": "node/4789397435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4790943724",
+        "addr:street": "Narayan Chaur",
+        "name:en": "Golchha Organisation",
+        "opening_hours": "Su-Fr 10:00-18:00",
+        "tourism": "attraction",
+        "website": "https://www.himelectronics.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3249789,
+          27.7154193
+        ]
+      },
+      "id": "node/4790943724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4854814821",
+        "name:en": "Mega TV",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2974537,
+          27.7242385
+        ]
+      },
+      "id": "node/4854814821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4858889921",
+        "name:en": "Loom Nepal",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3217052,
+          27.6883076
+        ]
+      },
+      "id": "node/4858889921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4869611921",
+        "addr:housenumber": "3",
+        "addr:street": "Lolang hight",
+        "email": "bhandariashish1997@gmail.com",
+        "name:en": "Bhandari Niwas",
+        "tourism": "attraction",
+        "website": "https://www.destinationmanagementinc.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2946422,
+          27.7489803
+        ]
+      },
+      "id": "node/4869611921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4879606121",
+        "name:en": "Khari Dadda",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3451523,
+          27.7038262
+        ]
+      },
+      "id": "node/4879606121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4907151222",
+        "name:en": "bijeswari",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.296755,
+          27.7130366
+        ]
+      },
+      "id": "node/4907151222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4909216229",
+        "name:en": "Build Nepa",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2999765,
+          27.743785
+        ]
+      },
+      "id": "node/4909216229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4930120521",
+        "name:en": "kishor sir ko office",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3322358,
+          27.6841114
+        ]
+      },
+      "id": "node/4930120521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4932406622",
+        "name:en": "FYI Nepal",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3712333,
+          27.7187173
+        ]
+      },
+      "id": "node/4932406622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4947077421",
+        "name:en": "aircraft on display",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3533161,
+          27.6944229
+        ]
+      },
+      "id": "node/4947077421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5006184021",
+        "addr:housenumber": "1343/40",
+        "addr:street": "Dhapasi Marg",
+        "name:en": "Anantaashram, House #1343/40",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3409352,
+          27.7464017
+        ]
+      },
+      "id": "node/5006184021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5009767235",
+        "addr:city": "kathmandu",
+        "name": "Nagpokhari",
+        "name:en": "Nag Pokhari",
+        "tourism": "attraction",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.324369,
+          27.713488
+        ]
+      },
+      "id": "node/5009767235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5123458524",
+        "name:en": "Anchita ko shit room",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3296136,
+          27.7004289
+        ]
+      },
+      "id": "node/5123458524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5125706822",
+        "addr:housenumber": "238-25",
+        "addr:street": "shanti goreto",
+        "name:en": "Saurabh's Home",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3485618,
+          27.7200627
+        ]
+      },
+      "id": "node/5125706822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5195545426",
+        "addr:housenumber": "141",
+        "addr:postcode": "44600",
+        "addr:street": "Shivasankar Galli",
+        "email": "info@vape977.com",
+        "name:en": "Vape977",
+        "opening_hours": "Mo-Su 22:00-20:00",
+        "phone": "9851299996",
+        "tourism": "attraction",
+        "website": "https://www.vape977.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.31163,
+          27.721136
+        ]
+      },
+      "id": "node/5195545426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204356222",
+        "addr:street": "Ram Shah Path (पुतलीसडक)",
+        "name:en": "Putali Sadak Chock पुतली सडक चोक ६६७",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3228409,
+          27.7056025
+        ]
+      },
+      "id": "node/5204356222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5284269723",
+        "name:en": "Purano Baneshwar Chok पुरानो बानेश्वर चोक ६६७",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3402447,
+          27.7014812
+        ]
+      },
+      "id": "node/5284269723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5295818822",
+        "name:en": "Bangal Land",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3579316,
+          27.7587043
+        ]
+      },
+      "id": "node/5295818822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5302729521",
+        "name:en": "Baudha Gate",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3618807,
+          27.7206893
+        ]
+      },
+      "id": "node/5302729521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5431546021",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3697527,
+          27.7239102
+        ]
+      },
+      "id": "node/5431546021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5463896523",
+        "name:en": "Safala didi",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4055242,
+          27.7205469
+        ]
+      },
+      "id": "node/5463896523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5463917221",
+        "addr:postcode": "+977",
+        "email": "mrnischallamichhane@gmail.com",
+        "name:en": "Nischal Lamichhane Residence",
+        "opening_hours": "24/7",
+        "phone": "015106377",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3011723,
+          27.789944
+        ]
+      },
+      "id": "node/5463917221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5543530921",
+        "addr:street": "Sanrachana Marg",
+        "name:en": "Sunil Dawadi's House",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2832512,
+          27.6926344
+        ]
+      },
+      "id": "node/5543530921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5555112522",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3110329,
+          27.7105785
+        ]
+      },
+      "id": "node/5555112522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5572766223",
+        "addr:street": "Mahadevasthan Marga",
+        "name:en": "Madan Bhandari Memorial Park",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3430933,
+          27.6814004
+        ]
+      },
+      "id": "node/5572766223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5599095623",
+        "name": "Thamel Chowk",
+        "name:ko": "타멜촉",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3113761,
+          27.7143416
+        ]
+      },
+      "id": "node/5599095623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5656895033",
+        "name:en": "Public park to free entrance to Pashupatinath",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.349554,
+          27.7128514
+        ]
+      },
+      "id": "node/5656895033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5660618321",
+        "name:en": "Milan Chok",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2820427,
+          27.687507
+        ]
+      },
+      "id": "node/5660618321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5677956022",
+        "name:ko": "스왐부나트 템플 멍키",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2885761,
+          27.7156735
+        ]
+      },
+      "id": "node/5677956022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5742410821",
+        "name:en": "Pipal Bot",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3099876,
+          27.6994339
+        ]
+      },
+      "id": "node/5742410821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5803936554",
+        "addr:city": "Kathmandu",
+        "addr:postcode": "44600",
+        "addr:street": "J.P. Road",
+        "description": "We are Motorbike Tour & Rental company with team of experienced mechanics who are in service more than 35 years in Thamel, Kathmandu, Nepal",
+        "name": "City motorbike",
+        "start_date": "2014",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3098672,
+          27.7118564
+        ]
+      },
+      "id": "node/5803936554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5810478653",
+        "name:en": "Raju dai newari",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3054059,
+          27.7014725
+        ]
+      },
+      "id": "node/5810478653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6013184887",
+        "name:en": "Bhagawati Kafle Home",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3319459,
+          27.6989821
+        ]
+      },
+      "id": "node/6013184887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6017997198",
+        "name:en": "Jotell",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3094481,
+          27.7172087
+        ]
+      },
+      "id": "node/6017997198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6048863186",
+        "name:en": "Dasrath Chand Path",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2783182,
+          27.7004162
+        ]
+      },
+      "id": "node/6048863186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6048864385",
+        "name:en": "Gangalal Path",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2791966,
+          27.6998559
+        ]
+      },
+      "id": "node/6048864385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6048864387",
+        "name:en": "Dharma Bhakta Path",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.279123,
+          27.7005042
+        ]
+      },
+      "id": "node/6048864387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6052389400",
+        "addr:city": "Kathmandu",
+        "addr:housenumber": "Market Mall",
+        "addr:postcode": "44600",
+        "addr:street": "Jyatha Street",
+        "description": "Probably the best hangout in Kathmandu and undoubtedly the best coffee, fusion food and fair trade gift items in Thamel. Combines Karma coffee and Socialtours into a space of conscious travel, food, products and coffee",
+        "name": "HUB",
+        "operator": "socialtours.com pvt ltd",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+977 9801123401",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3124162,
+          27.713693
+        ]
+      },
+      "id": "node/6052389400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6117286485",
+        "name:en": "Toya Nath Baral House main",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3452825,
+          27.6938622
+        ]
+      },
+      "id": "node/6117286485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6300568888",
+        "addr:street": "baneshwor",
+        "name:en": "planet music",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3352649,
+          27.6862558
+        ]
+      },
+      "id": "node/6300568888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6313767447",
+        "name": "Budhanikantha entry gate",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3622183,
+          27.7768839
+        ]
+      },
+      "id": "node/6313767447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6338052387",
+        "name:zh": "杜巴广场",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3083226,
+          27.7043742
+        ]
+      },
+      "id": "node/6338052387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6348676385",
+        "name:en": "Nasal Chok",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3075388,
+          27.7042318
+        ]
+      },
+      "id": "node/6348676385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6348676386",
+        "name:en": "Mul Chok",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3078364,
+          27.7042621
+        ]
+      },
+      "id": "node/6348676386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6348849285",
+        "name:en": "Lohan Chok",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3078016,
+          27.7040078
+        ]
+      },
+      "id": "node/6348849285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6408277986",
+        "name:en": "Hotel",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3118785,
+          27.7334633
+        ]
+      },
+      "id": "node/6408277986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6467873985",
+        "name:en": "iron ware",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3605848,
+          27.7783303
+        ]
+      },
+      "id": "node/6467873985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6480825885",
+        "name:en": "Shivapuri Nagarjun National Park",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3922872,
+          27.8147464
+        ]
+      },
+      "id": "node/6480825885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6521021153",
+        "name": "Gokarna Mahadev Temple",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3880833,
+          27.7396087
+        ]
+      },
+      "id": "node/6521021153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6521083003",
+        "name": "Boudha Stupa",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3620735,
+          27.7218093
+        ]
+      },
+      "id": "node/6521083003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6691859885",
+        "name:en": "girija koirala home",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3399414,
+          27.7398659
+        ]
+      },
+      "id": "node/6691859885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6715251386",
+        "name:en": "Itum Bahal",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3083304,
+          27.7066603
+        ]
+      },
+      "id": "node/6715251386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6807710417",
+        "name": "Rani Pokhari",
+        "name:ne": "रानी पोखरी",
+        "tourism": "attraction",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3153148,
+          27.7078115
+        ]
+      },
+      "id": "node/6807710417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6899949387",
+        "name:en": "Yetkha kaju",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3072586,
+          27.7058627
+        ]
+      },
+      "id": "node/6899949387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7207699986",
+        "name:en": "GODAM chowk",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2139823,
+          27.689051
+        ]
+      },
+      "id": "node/7207699986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7293575985",
+        "name:en": "Makalbari",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.384938,
+          27.7307726
+        ]
+      },
+      "id": "node/7293575985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7293576085",
+        "name:en": "Makalbari small bridge",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3846765,
+          27.7310829
+        ]
+      },
+      "id": "node/7293576085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7371671476",
+        "name": "Mohan Chok",
+        "place": "square",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3075665,
+          27.7045724
+        ]
+      },
+      "id": "node/7371671476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7371674706",
+        "addr:street": "Chandraman Maskey Marg",
+        "designation": "Heritage Walk",
+        "junction": "yes",
+        "name": "Indra Chok",
+        "name:en": "Indra Chok",
+        "name:ko": "인드라 초크",
+        "name:ne": "इन्द्रचोक",
+        "name:new": "वंघ",
+        "tourism": "attraction",
+        "wikidata": "Q2913856"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3096118,
+          27.7060235
+        ]
+      },
+      "id": "node/7371674706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7462617986",
+        "name:en": "Budhathoki Kumquat Orchard",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2616286,
+          27.7150797
+        ]
+      },
+      "id": "node/7462617986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8062824789",
+        "addr:postcode": "44600",
+        "addr:street": "Amrit Marg",
+        "name": "HUB",
+        "opening_hours": "Mo-Su 08:00-18:00",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3123826,
+          27.7134398
+        ]
+      },
+      "id": "node/8062824789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8307928519",
+        "addr:street": "Shiva puri peak trek (stairs)",
+        "name:en": "Bagdwar",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3907821,
+          27.8108557
+        ]
+      },
+      "id": "node/8307928519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8307994518",
+        "addr:street": "Shiva puri peak trek (stairs)",
+        "name:en": "Shivapuri Baba",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3844202,
+          27.8122424
+        ]
+      },
+      "id": "node/8307994518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8373880920",
+        "name:en": "ward 9- 0ffice",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2499903,
+          27.6692871
+        ]
+      },
+      "id": "node/8373880920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8646914919",
+        "name:en": "Old Freak Street",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3069136,
+          27.70344
+        ]
+      },
+      "id": "node/8646914919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8895046117",
+        "name:en": "Forest Entry",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3821446,
+          27.7822923
+        ]
+      },
+      "id": "node/8895046117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9366440993",
+        "addr:city": "Kathmandu",
+        "addr:country": "NP",
+        "addr:postcode": "44600",
+        "addr:street": "Dathu Sadak",
+        "description": "Heaven Himalaya is a travel company specialized in trekking and peak climbing tours in Nepal. It also offers a wide range of other activities such as day hiking, cultural tours, wildlife safari, jeep tour, whitewater rafting, bungee jump, and other avant-",
+        "email": "info@heavenhimalaya.com",
+        "image": "https://cdn-dcpje.nitrocdn.com/DYMQVJJZiwjhpqwhZJLoovhfmJEUvyWl/assets/static/optimized/rev-217e08e/wp-content/uploads/2020/02/hh-main-logo.png",
+        "name": "Heaven Himalaya",
+        "opening_hours": "24/7",
+        "operator": "Heaven Himalaya",
+        "phone": "01-4357403",
+        "source": "local knowledge;survey;gps",
+        "tourism": "attraction",
+        "website": "https://www.heavenhimalaya.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3050638,
+          27.7194155
+        ]
+      },
+      "id": "node/9366440993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9420316517",
+        "name:en": "Tuppi",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2793364,
+          27.7034776
+        ]
+      },
+      "id": "node/9420316517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9447489417",
+        "name": "Siwangi Pradhan",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.331411,
+          27.7169029
+        ]
+      },
+      "id": "node/9447489417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10012694017",
+        "addr:street": "Dakshinkali-3",
+        "name:en": "Ojaswee multipurpose livestock and organic agriculture Farm",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.27298,
+          27.6199837
+        ]
+      },
+      "id": "node/10012694017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10208815921",
+        "name:en": "Pipal Bot",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2713509,
+          27.6892587
+        ]
+      },
+      "id": "node/10208815921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10208828117",
+        "name:en": "Nagdhunga Tunnel",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1993373,
+          27.7078885
+        ]
+      },
+      "id": "node/10208828117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10211142717",
+        "name:en": "Ingresso serie di cortili tranquilli",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3112875,
+          27.709311
+        ]
+      },
+      "id": "node/10211142717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10799787706",
+        "name:en": "Entrance",
+        "name:ru": "Вход из Тамеля в Сваямбуднатх, закройте сумки и не кормите обезьян",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2929885,
+          27.7144457
+        ]
+      },
+      "id": "node/10799787706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10887146920",
+        "name:en": "Dunkmandu",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3699447,
+          27.7340348
+        ]
+      },
+      "id": "node/10887146920"
+    }
+  ]
+}
