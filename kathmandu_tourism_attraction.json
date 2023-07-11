@@ -3,7 +3,8 @@
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
   "timestamp": "2023-07-10T14:47:02Z",
-  "features": [
+  "features": 
+[
     {
       "type": "Feature",
       "properties": {

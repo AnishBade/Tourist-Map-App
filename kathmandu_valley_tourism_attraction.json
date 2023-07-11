@@ -1,0 +1,6245 @@
+[
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/56688296",
+        "addr:postcode": "977",
+        "addr:street": "Boudha Main Road",
+        "amenity": "place_of_worship",
+        "barrier": "wall",
+        "building:colour": "white",
+        "email": "lotusbazra@boudhanathstupa.org",
+        "height": "2",
+        "name": "Boudhanāth Stupa",
+        "name:ne": "बौद्धनाथ स्तूप",
+        "phone": "+977 01 4471908",
+        "religion": "buddhist",
+        "roof:colour": "white",
+        "tourism": "attraction",
+        "website": "http://boudhanathstupa.org/#_home",
+        "wheelchair": "yes",
+        "width": "0.6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3615237,
+              27.7215002
+            ],
+            [
+              85.3615224,
+              27.7213293
+            ],
+            [
+              85.3615948,
+              27.7211756
+            ],
+            [
+              85.361761,
+              27.7210325
+            ],
+            [
+              85.3620775,
+              27.7209981
+            ],
+            [
+              85.3622827,
+              27.7210681
+            ],
+            [
+              85.3624745,
+              27.7212723
+            ],
+            [
+              85.3625483,
+              27.7213305
+            ],
+            [
+              85.3625657,
+              27.7214516
+            ],
+            [
+              85.3624953,
+              27.721505
+            ],
+            [
+              85.3624304,
+              27.7215924
+            ],
+            [
+              85.3623886,
+              27.7216943
+            ],
+            [
+              85.3622305,
+              27.7218326
+            ],
+            [
+              85.3621109,
+              27.7218713
+            ],
+            [
+              85.3620111,
+              27.721888
+            ],
+            [
+              85.3619045,
+              27.721873
+            ],
+            [
+              85.3617135,
+              27.7217864
+            ],
+            [
+              85.36159,
+              27.7216689
+            ],
+            [
+              85.3615237,
+              27.7215002
+            ]
+          ]
+        ]
+      },
+      "id": "way/56688296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/70954208",
+        "amenity": "drinking_water",
+        "historic": "monument",
+        "name": "Sundhara",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3123425,
+              27.7009755
+            ],
+            [
+              85.312293,
+              27.7007177
+            ],
+            [
+              85.3125918,
+              27.7006724
+            ],
+            [
+              85.3126387,
+              27.7009308
+            ],
+            [
+              85.3123425,
+              27.7009755
+            ]
+          ]
+        ]
+      },
+      "id": "way/70954208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/80913260",
+        "damage:event": "nepal_earthquake_2015",
+        "emergency:helipad": "potential",
+        "leisure": "common",
+        "name": "Yetkha Bahal",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3064132,
+              27.7068945
+            ],
+            [
+              85.3063207,
+              27.7065591
+            ],
+            [
+              85.3067022,
+              27.7064767
+            ],
+            [
+              85.306751,
+              27.7066629
+            ],
+            [
+              85.3067946,
+              27.7068121
+            ],
+            [
+              85.3064132,
+              27.7068945
+            ]
+          ]
+        ]
+      },
+      "id": "way/80913260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/85650618",
+        "fee": "yes",
+        "leisure": "park",
+        "name": "Garden of Dreams",
+        "toilets:wheelchair": "no",
+        "tourism": "attraction",
+        "website": "https://gardenofdreams.org.np/",
+        "wheelchair": "no",
+        "wikidata": "Q5522383"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3152486,
+              27.7137492
+            ],
+            [
+              85.3153702,
+              27.7139695
+            ],
+            [
+              85.3154536,
+              27.7144532
+            ],
+            [
+              85.3143927,
+              27.714453
+            ],
+            [
+              85.3142436,
+              27.7144609
+            ],
+            [
+              85.3142318,
+              27.7142735
+            ],
+            [
+              85.3142002,
+              27.7139301
+            ],
+            [
+              85.3147106,
+              27.7138577
+            ],
+            [
+              85.314918,
+              27.7137874
+            ],
+            [
+              85.3152486,
+              27.7137492
+            ]
+          ]
+        ]
+      },
+      "id": "way/85650618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170431202",
+        "attraction": "animal",
+        "name": "Four horned Antelope",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3101973,
+              27.6724327
+            ],
+            [
+              85.3101479,
+              27.6723302
+            ],
+            [
+              85.3102794,
+              27.6722649
+            ],
+            [
+              85.310413,
+              27.6722017
+            ],
+            [
+              85.3104684,
+              27.6723416
+            ],
+            [
+              85.3101973,
+              27.6724327
+            ]
+          ]
+        ]
+      },
+      "id": "way/170431202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170431203",
+        "attraction": "animal",
+        "name": "Barking Deer",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3109823,
+              27.6721921
+            ],
+            [
+              85.3108174,
+              27.6722417
+            ],
+            [
+              85.3107433,
+              27.6720632
+            ],
+            [
+              85.3108977,
+              27.6720007
+            ],
+            [
+              85.3109394,
+              27.6720935
+            ],
+            [
+              85.3109823,
+              27.6721921
+            ]
+          ]
+        ]
+      },
+      "id": "way/170431203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170552509",
+        "attraction": "animal",
+        "name": "Common Cobra",
+        "natural": "sand",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3112177,
+              27.6735496
+            ],
+            [
+              85.3112543,
+              27.6736242
+            ],
+            [
+              85.3112168,
+              27.6736399
+            ],
+            [
+              85.3111792,
+              27.6735655
+            ],
+            [
+              85.3112177,
+              27.6735496
+            ]
+          ]
+        ]
+      },
+      "id": "way/170552509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170552766",
+        "attraction": "animal",
+        "name": "Blue Sheep",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3099373,
+              27.6723952
+            ],
+            [
+              85.3100026,
+              27.6723782
+            ],
+            [
+              85.3100969,
+              27.6723544
+            ],
+            [
+              85.3101427,
+              27.6723331
+            ],
+            [
+              85.3101918,
+              27.6724349
+            ],
+            [
+              85.3099868,
+              27.6724966
+            ],
+            [
+              85.3099373,
+              27.6723952
+            ]
+          ]
+        ]
+      },
+      "id": "way/170552766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170555126",
+        "attraction": "animal",
+        "name": "Gharial",
+        "natural": "water",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3117839,
+              27.6724961
+            ],
+            [
+              85.3117635,
+              27.6724785
+            ],
+            [
+              85.3117529,
+              27.6724551
+            ],
+            [
+              85.3117539,
+              27.6724299
+            ],
+            [
+              85.3117664,
+              27.6724073
+            ],
+            [
+              85.3117883,
+              27.6723912
+            ],
+            [
+              85.3118157,
+              27.6723843
+            ],
+            [
+              85.3118438,
+              27.6723878
+            ],
+            [
+              85.3118679,
+              27.6724012
+            ],
+            [
+              85.3118838,
+              27.6724222
+            ],
+            [
+              85.3118887,
+              27.672447
+            ],
+            [
+              85.3118817,
+              27.6724714
+            ],
+            [
+              85.3118642,
+              27.6724913
+            ],
+            [
+              85.311839,
+              27.672503
+            ],
+            [
+              85.3118106,
+              27.6725047
+            ],
+            [
+              85.3117839,
+              27.6724961
+            ]
+          ]
+        ]
+      },
+      "id": "way/170555126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170558282",
+        "attraction": "animal",
+        "name": "Royal Bengal Tiger",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3097628,
+              27.6732329
+            ],
+            [
+              85.3097032,
+              27.6732631
+            ],
+            [
+              85.3093851,
+              27.673413
+            ],
+            [
+              85.3092456,
+              27.6731843
+            ],
+            [
+              85.3093395,
+              27.673154
+            ],
+            [
+              85.3093115,
+              27.6730959
+            ],
+            [
+              85.3096419,
+              27.6729857
+            ],
+            [
+              85.3097628,
+              27.6732329
+            ]
+          ]
+        ]
+      },
+      "id": "way/170558282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170558433",
+        "attraction": "animal",
+        "name": "Asian Elephant",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3099187,
+              27.6737307
+            ],
+            [
+              85.3096831,
+              27.6738366
+            ],
+            [
+              85.309556,
+              27.6736641
+            ],
+            [
+              85.3098143,
+              27.673551
+            ],
+            [
+              85.3099187,
+              27.6737307
+            ]
+          ]
+        ]
+      },
+      "id": "way/170558433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170558481",
+        "attraction": "animal",
+        "name": "Spotted Deer",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3115808,
+              27.6720282
+            ],
+            [
+              85.3114806,
+              27.6718246
+            ],
+            [
+              85.3115779,
+              27.671787
+            ],
+            [
+              85.3117338,
+              27.6717268
+            ],
+            [
+              85.311808,
+              27.6718774
+            ],
+            [
+              85.3117473,
+              27.6719009
+            ],
+            [
+              85.3117734,
+              27.6719538
+            ],
+            [
+              85.3115808,
+              27.6720282
+            ]
+          ]
+        ]
+      },
+      "id": "way/170558481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170558705",
+        "attraction": "animal",
+        "name": "One Horned Rhinoceros",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3097913,
+              27.6726691
+            ],
+            [
+              85.3098255,
+              27.6727547
+            ],
+            [
+              85.309943,
+              27.673049
+            ],
+            [
+              85.3097402,
+              27.6731124
+            ],
+            [
+              85.3095886,
+              27.6727325
+            ],
+            [
+              85.3097913,
+              27.6726691
+            ]
+          ]
+        ]
+      },
+      "id": "way/170558705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170558810",
+        "attraction": "animal",
+        "name": "Hippopotamus",
+        "natural": "sand",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3099435,
+              27.6725475
+            ],
+            [
+              85.3099802,
+              27.6726313
+            ],
+            [
+              85.3098963,
+              27.67266
+            ],
+            [
+              85.3098596,
+              27.6725763
+            ],
+            [
+              85.3099435,
+              27.6725475
+            ]
+          ]
+        ]
+      },
+      "id": "way/170558810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170559601",
+        "attraction": "animal",
+        "name": "Wild Water Buffalo",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3097378,
+              27.6735743
+            ],
+            [
+              85.3095411,
+              27.6736601
+            ],
+            [
+              85.3093936,
+              27.6734195
+            ],
+            [
+              85.3094491,
+              27.6733991
+            ],
+            [
+              85.3097063,
+              27.673287
+            ],
+            [
+              85.3097894,
+              27.6734364
+            ],
+            [
+              85.3096862,
+              27.6734814
+            ],
+            [
+              85.3097378,
+              27.6735743
+            ]
+          ]
+        ]
+      },
+      "id": "way/170559601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170559602",
+        "attraction": "animal",
+        "name": "Siamang",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3098245,
+              27.6735408
+            ],
+            [
+              85.3097467,
+              27.6735709
+            ],
+            [
+              85.3097162,
+              27.6735173
+            ],
+            [
+              85.3097953,
+              27.6734859
+            ],
+            [
+              85.3098245,
+              27.6735408
+            ]
+          ]
+        ]
+      },
+      "id": "way/170559602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170559637",
+        "attraction": "animal",
+        "name": "Black Buck",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3112623,
+              27.6721143
+            ],
+            [
+              85.311205,
+              27.671912
+            ],
+            [
+              85.3113072,
+              27.6718927
+            ],
+            [
+              85.3114745,
+              27.6718296
+            ],
+            [
+              85.3115738,
+              27.6720302
+            ],
+            [
+              85.3112623,
+              27.6721143
+            ]
+          ]
+        ]
+      },
+      "id": "way/170559637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170559652",
+        "attraction": "animal",
+        "name": "Assamese Macaque",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3098006,
+              27.6734294
+            ],
+            [
+              85.3097208,
+              27.6732856
+            ],
+            [
+              85.3098051,
+              27.6732489
+            ],
+            [
+              85.3098849,
+              27.6733927
+            ],
+            [
+              85.3098006,
+              27.6734294
+            ]
+          ]
+        ]
+      },
+      "id": "way/170559652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170560557",
+        "attraction": "animal",
+        "name": "Blue Bull",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3109878,
+              27.6721913
+            ],
+            [
+              85.3109058,
+              27.6719994
+            ],
+            [
+              85.3111094,
+              27.6719289
+            ],
+            [
+              85.3112003,
+              27.6719123
+            ],
+            [
+              85.3112561,
+              27.672116
+            ],
+            [
+              85.3109878,
+              27.6721913
+            ]
+          ]
+        ]
+      },
+      "id": "way/170560557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170560587",
+        "attraction": "animal",
+        "name": "Himalayan beer",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3099687,
+              27.673822
+            ],
+            [
+              85.3100589,
+              27.6737942
+            ],
+            [
+              85.3101068,
+              27.6739354
+            ],
+            [
+              85.3100187,
+              27.6739604
+            ],
+            [
+              85.3099687,
+              27.673822
+            ]
+          ]
+        ]
+      },
+      "id": "way/170560587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170560595",
+        "attraction": "animal",
+        "name": "Sloth Beer",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3101103,
+              27.6739343
+            ],
+            [
+              85.3100635,
+              27.6737925
+            ],
+            [
+              85.3101556,
+              27.6737688
+            ],
+            [
+              85.310197,
+              27.6739129
+            ],
+            [
+              85.3101103,
+              27.6739343
+            ]
+          ]
+        ]
+      },
+      "id": "way/170560595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170561979",
+        "attraction": "animal",
+        "name": "Red-eared slider Turtle",
+        "natural": "sand",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3114492,
+              27.6734526
+            ],
+            [
+              85.3115209,
+              27.673432
+            ],
+            [
+              85.3115351,
+              27.6734709
+            ],
+            [
+              85.3114993,
+              27.6734812
+            ],
+            [
+              85.3114634,
+              27.6734915
+            ],
+            [
+              85.3114492,
+              27.6734526
+            ]
+          ]
+        ]
+      },
+      "id": "way/170561979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170562907",
+        "attraction": "animal",
+        "name": "Common Leopard",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3101593,
+              27.6737678
+            ],
+            [
+              85.3102771,
+              27.673746
+            ],
+            [
+              85.3103101,
+              27.6738868
+            ],
+            [
+              85.3102028,
+              27.6739116
+            ],
+            [
+              85.3101593,
+              27.6737678
+            ]
+          ]
+        ]
+      },
+      "id": "way/170562907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170563443",
+        "attraction": "animal",
+        "name": "Himalayan Palm Civet",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.310283,
+              27.6737451
+            ],
+            [
+              85.3103857,
+              27.6737271
+            ],
+            [
+              85.3104128,
+              27.6738721
+            ],
+            [
+              85.3103141,
+              27.6738865
+            ],
+            [
+              85.310283,
+              27.6737451
+            ]
+          ]
+        ]
+      },
+      "id": "way/170563443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170563632",
+        "attraction": "animal",
+        "name": "Large Indian Civet",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.310459,
+              27.6737129
+            ],
+            [
+              85.3104922,
+              27.6738617
+            ],
+            [
+              85.3104205,
+              27.6738722
+            ],
+            [
+              85.3103887,
+              27.6737263
+            ],
+            [
+              85.310459,
+              27.6737129
+            ]
+          ]
+        ]
+      },
+      "id": "way/170563632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170566069",
+        "attraction": "animal",
+        "name": "Emu",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3102244,
+              27.6743782
+            ],
+            [
+              85.3103227,
+              27.6745313
+            ],
+            [
+              85.3102063,
+              27.6745763
+            ],
+            [
+              85.3101013,
+              27.6744284
+            ],
+            [
+              85.3102244,
+              27.6743782
+            ]
+          ]
+        ]
+      },
+      "id": "way/170566069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170566071",
+        "attraction": "animal",
+        "name": "Ostrich",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3099002,
+              27.6741224
+            ],
+            [
+              85.3100049,
+              27.6740758
+            ],
+            [
+              85.3102193,
+              27.674373
+            ],
+            [
+              85.3100961,
+              27.674423
+            ],
+            [
+              85.3099002,
+              27.6741224
+            ]
+          ]
+        ]
+      },
+      "id": "way/170566071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170566072",
+        "attraction": "animal",
+        "name": "Eurasean Eagle Owl",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3103235,
+              27.6745344
+            ],
+            [
+              85.3103749,
+              27.6746277
+            ],
+            [
+              85.3102656,
+              27.6746713
+            ],
+            [
+              85.3102088,
+              27.6745786
+            ],
+            [
+              85.3103235,
+              27.6745344
+            ]
+          ]
+        ]
+      },
+      "id": "way/170566072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170567116",
+        "attraction": "animal",
+        "name": "Senegal parrot",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3110487,
+              27.6743636
+            ],
+            [
+              85.3110032,
+              27.674285
+            ],
+            [
+              85.3110474,
+              27.6742611
+            ],
+            [
+              85.3110933,
+              27.6743432
+            ],
+            [
+              85.3110487,
+              27.6743636
+            ]
+          ]
+        ]
+      },
+      "id": "way/170567116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170567117",
+        "attraction": "animal",
+        "name": "Emerald Dove",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3109473,
+              27.6743099
+            ],
+            [
+              85.3109964,
+              27.6742868
+            ],
+            [
+              85.3110432,
+              27.6743646
+            ],
+            [
+              85.3109949,
+              27.674385
+            ],
+            [
+              85.3109473,
+              27.6743099
+            ]
+          ]
+        ]
+      },
+      "id": "way/170567117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170567295",
+        "attraction": "animal",
+        "name": "Oriental Pied Hornbill",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3112454,
+              27.6742721
+            ],
+            [
+              85.3111979,
+              27.674292
+            ],
+            [
+              85.3111487,
+              27.6742083
+            ],
+            [
+              85.3111908,
+              27.6741867
+            ],
+            [
+              85.3112454,
+              27.6742721
+            ]
+          ]
+        ]
+      },
+      "id": "way/170567295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170567666",
+        "attraction": "animal",
+        "name": "Fantail pigeon",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3111923,
+              27.6742957
+            ],
+            [
+              85.3111439,
+              27.6743173
+            ],
+            [
+              85.3110972,
+              27.6742349
+            ],
+            [
+              85.3111417,
+              27.67421
+            ],
+            [
+              85.3111923,
+              27.6742957
+            ]
+          ]
+        ]
+      },
+      "id": "way/170567666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170567890",
+        "attraction": "animal",
+        "name": "Scaly-Breasted Munia",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3112188,
+              27.6741821
+            ],
+            [
+              85.311282,
+              27.6741627
+            ],
+            [
+              85.3113162,
+              27.6742164
+            ],
+            [
+              85.3112545,
+              27.6742392
+            ],
+            [
+              85.3112188,
+              27.6741821
+            ]
+          ]
+        ]
+      },
+      "id": "way/170567890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170567994",
+        "attraction": "animal",
+        "name": "Cockatiel",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3114294,
+              27.6741731
+            ],
+            [
+              85.3114098,
+              27.674128
+            ],
+            [
+              85.3114643,
+              27.6741085
+            ],
+            [
+              85.3114824,
+              27.6741547
+            ],
+            [
+              85.3114294,
+              27.6741731
+            ]
+          ]
+        ]
+      },
+      "id": "way/170567994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170567995",
+        "attraction": "animal",
+        "name": "Blue-and-Yellow Macaw",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3113663,
+              27.6741972
+            ],
+            [
+              85.3113407,
+              27.6741447
+            ],
+            [
+              85.3114052,
+              27.6741284
+            ],
+            [
+              85.3114269,
+              27.6741755
+            ],
+            [
+              85.3113663,
+              27.6741972
+            ]
+          ]
+        ]
+      },
+      "id": "way/170567995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170568282",
+        "attraction": "animal",
+        "name": "Black Kite",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3115895,
+              27.6741101
+            ],
+            [
+              85.311571,
+              27.6740687
+            ],
+            [
+              85.3116141,
+              27.6740507
+            ],
+            [
+              85.3116331,
+              27.6740924
+            ],
+            [
+              85.3115895,
+              27.6741101
+            ]
+          ]
+        ]
+      },
+      "id": "way/170568282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170568440",
+        "attraction": "animal",
+        "name": "Himalayan Griffon",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3116335,
+              27.6740922
+            ],
+            [
+              85.3116145,
+              27.6740506
+            ],
+            [
+              85.3116598,
+              27.6740327
+            ],
+            [
+              85.3116806,
+              27.674073
+            ],
+            [
+              85.3116335,
+              27.6740922
+            ]
+          ]
+        ]
+      },
+      "id": "way/170568440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170568466",
+        "attraction": "animal",
+        "name": "Tricarinate Hill Turtle",
+        "natural": "sand",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3111183,
+              27.6735889
+            ],
+            [
+              85.3111749,
+              27.673566
+            ],
+            [
+              85.3112135,
+              27.673641
+            ],
+            [
+              85.3111568,
+              27.6736638
+            ],
+            [
+              85.3111183,
+              27.6735889
+            ]
+          ]
+        ]
+      },
+      "id": "way/170568466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/177582763",
+        "alt_name": "Saleways",
+        "name": "Saleways Department Store",
+        "opening_hours": "Mo-Su 08:30-20:30",
+        "shop": "department_store",
+        "toilets:wheelchair": "no",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3146831,
+              27.6752532
+            ],
+            [
+              85.314644,
+              27.6750901
+            ],
+            [
+              85.3146447,
+              27.6750076
+            ],
+            [
+              85.314679,
+              27.6749835
+            ],
+            [
+              85.314734,
+              27.6749342
+            ],
+            [
+              85.3147674,
+              27.6749042
+            ],
+            [
+              85.3149846,
+              27.6751147
+            ],
+            [
+              85.3149197,
+              27.6751767
+            ],
+            [
+              85.3147952,
+              27.6752414
+            ],
+            [
+              85.3146831,
+              27.6752532
+            ]
+          ]
+        ]
+      },
+      "id": "way/177582763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/183563646",
+        "historic": "monument",
+        "name": "Taleju Bell",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3067033,
+              27.7045245
+            ],
+            [
+              85.3067314,
+              27.704587
+            ],
+            [
+              85.3066574,
+              27.7046132
+            ],
+            [
+              85.3066292,
+              27.7045508
+            ],
+            [
+              85.3067033,
+              27.7045245
+            ]
+          ]
+        ]
+      },
+      "id": "way/183563646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/186264410",
+        "addr:city": "Changu Narayan",
+        "amenity": "place_of_worship",
+        "building": "temple",
+        "denomination": "hindu",
+        "heritage": "1",
+        "heritage:operator": "whc",
+        "historic": "monument",
+        "name": "Changu Narayan Temple",
+        "name:ne": "चाँगुनारायण मन्दिर",
+        "ref:whc": "121-007",
+        "religion": "hindu",
+        "tourism": "attraction",
+        "whc:criteria": "(iii)(iv)(vi)",
+        "whc:inscription_date": "1979",
+        "wikidata": "Q1062150",
+        "wikipedia": "en:Changu Narayan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.4278782,
+              27.7164901
+            ],
+            [
+              85.4278453,
+              27.7163616
+            ],
+            [
+              85.4279885,
+              27.7163329
+            ],
+            [
+              85.4280213,
+              27.7164614
+            ],
+            [
+              85.4278782,
+              27.7164901
+            ]
+          ]
+        ]
+      },
+      "id": "way/186264410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/194744621",
+        "addr:street": "Durbar Marg",
+        "amenity": "clock",
+        "building": "tower",
+        "historic": "monument",
+        "int_name": "Ghantaghar",
+        "name": "Ghantaghar",
+        "name:en": "Trichandra Campus",
+        "name:ne": "घण्टाघर",
+        "tourism": "attraction",
+        "wheelchair": "limited",
+        "wikidata": "Q11205395"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3167985,
+              27.7074576
+            ],
+            [
+              85.316819,
+              27.7074546
+            ],
+            [
+              85.3168395,
+              27.707458
+            ],
+            [
+              85.3168563,
+              27.7074664
+            ],
+            [
+              85.3168693,
+              27.7074791
+            ],
+            [
+              85.3168771,
+              27.7074947
+            ],
+            [
+              85.316879,
+              27.7075117
+            ],
+            [
+              85.3168748,
+              27.7075284
+            ],
+            [
+              85.3168649,
+              27.7075431
+            ],
+            [
+              85.3168502,
+              27.7075543
+            ],
+            [
+              85.3168324,
+              27.7075608
+            ],
+            [
+              85.3168131,
+              27.7075621
+            ],
+            [
+              85.3167944,
+              27.7075579
+            ],
+            [
+              85.316777,
+              27.7075478
+            ],
+            [
+              85.3167644,
+              27.7075332
+            ],
+            [
+              85.3167581,
+              27.7075157
+            ],
+            [
+              85.3167589,
+              27.7074973
+            ],
+            [
+              85.3167666,
+              27.7074802
+            ],
+            [
+              85.3167804,
+              27.7074665
+            ],
+            [
+              85.3167985,
+              27.7074576
+            ]
+          ]
+        ]
+      },
+      "id": "way/194744621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/199483682",
+        "area": "yes",
+        "name": "Lam Chok",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3070015,
+              27.7040971
+            ],
+            [
+              85.3069836,
+              27.7040152
+            ],
+            [
+              85.3071758,
+              27.7039823
+            ],
+            [
+              85.3071937,
+              27.7040642
+            ],
+            [
+              85.3070015,
+              27.7040971
+            ]
+          ]
+        ]
+      },
+      "id": "way/199483682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/199483689",
+        "area": "yes",
+        "name": "Dahk Chok",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3070242,
+              27.7042236
+            ],
+            [
+              85.3072204,
+              27.7041944
+            ],
+            [
+              85.3072476,
+              27.7043377
+            ],
+            [
+              85.3070514,
+              27.7043669
+            ],
+            [
+              85.3070242,
+              27.7042236
+            ]
+          ]
+        ]
+      },
+      "id": "way/199483689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/199484514",
+        "area": "yes",
+        "name": "Nucha Chok",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3067015,
+              27.7041943
+            ],
+            [
+              85.3066747,
+              27.7040621
+            ],
+            [
+              85.3068145,
+              27.7040399
+            ],
+            [
+              85.3068412,
+              27.7041721
+            ],
+            [
+              85.3067015,
+              27.7041943
+            ]
+          ]
+        ]
+      },
+      "id": "way/199484514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/199775523",
+        "building": "yes",
+        "height": "4.4",
+        "historic": "monument",
+        "min_height": "2.3",
+        "name": "Taleju Bell",
+        "roof:colour": "red",
+        "roof:height": "2",
+        "roof:shape": "hipped",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3248816,
+              27.6731047
+            ],
+            [
+              85.3248442,
+              27.6729959
+            ],
+            [
+              85.3249319,
+              27.6729722
+            ],
+            [
+              85.3249694,
+              27.673081
+            ],
+            [
+              85.3248816,
+              27.6731047
+            ]
+          ]
+        ]
+      },
+      "id": "way/199775523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/206611081",
+        "addr:city": "Lalitpur",
+        "addr:postcode": "44700",
+        "addr:street": "Kayagunani Marg",
+        "description": "This is temple at the center of the kayagunani tole.",
+        "name": "Kayagunani Jya",
+        "source": "personal",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3225587,
+              27.6736522
+            ],
+            [
+              85.3225852,
+              27.6737121
+            ],
+            [
+              85.3225387,
+              27.6737325
+            ],
+            [
+              85.3225091,
+              27.6736852
+            ],
+            [
+              85.3225311,
+              27.6736662
+            ],
+            [
+              85.3225587,
+              27.6736522
+            ]
+          ]
+        ]
+      },
+      "id": "way/206611081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209321758",
+        "name": "RATO MACHHINDRA NATH KO RATH NIRMAN STHAL",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3156507,
+              27.6760628
+            ],
+            [
+              85.3156212,
+              27.6760343
+            ],
+            [
+              85.315659,
+              27.676018
+            ],
+            [
+              85.3156802,
+              27.6760509
+            ],
+            [
+              85.3156507,
+              27.6760628
+            ]
+          ]
+        ]
+      },
+      "id": "way/209321758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209961410",
+        "name": "Open Space",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3269078,
+              27.6682286
+            ],
+            [
+              85.3267657,
+              27.6679696
+            ],
+            [
+              85.3270648,
+              27.6678481
+            ],
+            [
+              85.3270961,
+              27.6678389
+            ],
+            [
+              85.3271648,
+              27.6679657
+            ],
+            [
+              85.3272335,
+              27.6680924
+            ],
+            [
+              85.3270598,
+              27.6681809
+            ],
+            [
+              85.3269534,
+              27.6682286
+            ],
+            [
+              85.3269427,
+              27.6682143
+            ],
+            [
+              85.3269078,
+              27.6682286
+            ]
+          ]
+        ]
+      },
+      "id": "way/209961410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/211080700",
+        "amenity": "place_of_worship",
+        "building": "temple",
+        "height": "3.68",
+        "name": "Rameshwar temple",
+        "religion": "hindu",
+        "source": "planetware.com",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.4273683,
+              27.6722929
+            ],
+            [
+              85.4273659,
+              27.6722364
+            ],
+            [
+              85.4274165,
+              27.6722348
+            ],
+            [
+              85.4274189,
+              27.6722912
+            ],
+            [
+              85.4273683,
+              27.6722929
+            ]
+          ]
+        ]
+      },
+      "id": "way/211080700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/211080701",
+        "amenity": "place_of_worship",
+        "building": "temple",
+        "height": "3.01",
+        "name": "Rameshwar temple",
+        "religion": "hindu",
+        "source": "planetware.com",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.4274428,
+              27.6722796
+            ],
+            [
+              85.4274428,
+              27.6722414
+            ],
+            [
+              85.4274766,
+              27.6722414
+            ],
+            [
+              85.4274766,
+              27.6722796
+            ],
+            [
+              85.4274428,
+              27.6722796
+            ]
+          ]
+        ]
+      },
+      "id": "way/211080701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/211080702",
+        "amenity": "place_of_worship",
+        "building": "temple",
+        "name": "Badrinath Tirtha",
+        "religion": "hindu",
+        "source": "planetware.com",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.4273592,
+              27.6721461
+            ],
+            [
+              85.4273592,
+              27.6721129
+            ],
+            [
+              85.4274042,
+              27.6721129
+            ],
+            [
+              85.4274042,
+              27.6721461
+            ],
+            [
+              85.4273592,
+              27.6721461
+            ]
+          ]
+        ]
+      },
+      "id": "way/211080702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/227958650",
+        "barrier": "fence",
+        "name": "Pilot Baba Ashram",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.4228137,
+              27.6404154
+            ],
+            [
+              85.4226776,
+              27.6406739
+            ],
+            [
+              85.4223178,
+              27.6407256
+            ],
+            [
+              85.4222448,
+              27.6404456
+            ],
+            [
+              85.4226387,
+              27.6403206
+            ],
+            [
+              85.4228137,
+              27.6404154
+            ]
+          ]
+        ]
+      },
+      "id": "way/227958650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/495632745",
+        "building": "yes",
+        "name": "Chyasing Mandap",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.4284728,
+              27.6721198
+            ],
+            [
+              85.4284681,
+              27.6720778
+            ],
+            [
+              85.4284823,
+              27.6720624
+            ],
+            [
+              85.4285296,
+              27.6720582
+            ],
+            [
+              85.4285469,
+              27.6720708
+            ],
+            [
+              85.4285517,
+              27.6721129
+            ],
+            [
+              85.4285375,
+              27.6721284
+            ],
+            [
+              85.4284901,
+              27.6721325
+            ],
+            [
+              85.4284728,
+              27.6721198
+            ]
+          ]
+        ]
+      },
+      "id": "way/495632745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1130870185",
+        "attraction": "animal",
+        "name": "Patas Monkey",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3100078,
+              27.6736914
+            ],
+            [
+              85.30993,
+              27.6737215
+            ],
+            [
+              85.3098996,
+              27.6736678
+            ],
+            [
+              85.3099787,
+              27.6736365
+            ],
+            [
+              85.3100078,
+              27.6736914
+            ]
+          ]
+        ]
+      },
+      "id": "way/1130870185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1130870186",
+        "attraction": "animal",
+        "name": "Common Langur",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3092091,
+              27.6728985
+            ],
+            [
+              85.3093524,
+              27.6728442
+            ],
+            [
+              85.3094246,
+              27.6729877
+            ],
+            [
+              85.3092813,
+              27.673036
+            ],
+            [
+              85.3092091,
+              27.6728985
+            ]
+          ]
+        ]
+      },
+      "id": "way/1130870186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1130870188",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3096268,
+              27.6724872
+            ],
+            [
+              85.3097787,
+              27.6724409
+            ],
+            [
+              85.3098279,
+              27.6725424
+            ],
+            [
+              85.3096769,
+              27.6725936
+            ],
+            [
+              85.3095326,
+              27.672641
+            ],
+            [
+              85.3095235,
+              27.6725905
+            ],
+            [
+              85.3095182,
+              27.6725584
+            ],
+            [
+              85.3095403,
+              27.6725198
+            ],
+            [
+              85.3095789,
+              27.6725053
+            ],
+            [
+              85.3096268,
+              27.6724872
+            ]
+          ]
+        ]
+      },
+      "id": "way/1130870188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1130870189",
+        "attraction": "animal",
+        "name": "Wild Boar",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3097809,
+              27.6724397
+            ],
+            [
+              85.3098857,
+              27.6724098
+            ],
+            [
+              85.3099336,
+              27.6723962
+            ],
+            [
+              85.3099826,
+              27.672498
+            ],
+            [
+              85.3098316,
+              27.6725413
+            ],
+            [
+              85.3097809,
+              27.6724397
+            ]
+          ]
+        ]
+      },
+      "id": "way/1130870189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1130870190",
+        "attraction": "animal",
+        "name": "Himalayan Ghoral",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3105528,
+              27.672318
+            ],
+            [
+              85.3104708,
+              27.6723409
+            ],
+            [
+              85.310415,
+              27.6722001
+            ],
+            [
+              85.3105786,
+              27.6721335
+            ],
+            [
+              85.3106182,
+              27.6722282
+            ],
+            [
+              85.3106427,
+              27.6722884
+            ],
+            [
+              85.3105528,
+              27.672318
+            ]
+          ]
+        ]
+      },
+      "id": "way/1130870190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1130870191",
+        "attraction": "animal",
+        "name": "Sambar Deer",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3107298,
+              27.6722663
+            ],
+            [
+              85.3106511,
+              27.6722901
+            ],
+            [
+              85.3105816,
+              27.6721327
+            ],
+            [
+              85.3107365,
+              27.6720672
+            ],
+            [
+              85.3107771,
+              27.672163
+            ],
+            [
+              85.310813,
+              27.6722421
+            ],
+            [
+              85.3107298,
+              27.6722663
+            ]
+          ]
+        ]
+      },
+      "id": "way/1130870191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1131090610",
+        "attraction": "animal",
+        "name": "Yellow Headed Turtle",
+        "natural": "sand",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3115241,
+              27.6734311
+            ],
+            [
+              85.3115958,
+              27.6734105
+            ],
+            [
+              85.31161,
+              27.6734494
+            ],
+            [
+              85.3115742,
+              27.6734597
+            ],
+            [
+              85.3115383,
+              27.67347
+            ],
+            [
+              85.3115241,
+              27.6734311
+            ]
+          ]
+        ]
+      },
+      "id": "way/1131090610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1131090612",
+        "attraction": "animal",
+        "name": "Asiatic rock python",
+        "natural": "sand",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3112606,
+              27.673533
+            ],
+            [
+              85.3112973,
+              27.6736072
+            ],
+            [
+              85.3112586,
+              27.6736226
+            ],
+            [
+              85.311222,
+              27.6735488
+            ],
+            [
+              85.3112606,
+              27.673533
+            ]
+          ]
+        ]
+      },
+      "id": "way/1131090612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1131090613",
+        "attraction": "animal",
+        "name": "Indian Crested Porcupine",
+        "natural": "sand",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3110919,
+              27.6735822
+            ],
+            [
+              85.3111398,
+              27.6736861
+            ],
+            [
+              85.3110151,
+              27.6737277
+            ],
+            [
+              85.3109697,
+              27.6736241
+            ],
+            [
+              85.3110919,
+              27.6735822
+            ]
+          ]
+        ]
+      },
+      "id": "way/1131090613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1131090614",
+        "attraction": "animal",
+        "name": "Lady Amherst's Pheasant",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3109579,
+              27.6738985
+            ],
+            [
+              85.3109397,
+              27.6738561
+            ],
+            [
+              85.311023,
+              27.6738219
+            ],
+            [
+              85.3110438,
+              27.6738622
+            ],
+            [
+              85.3109579,
+              27.6738985
+            ]
+          ]
+        ]
+      },
+      "id": "way/1131090614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1131090615",
+        "attraction": "animal",
+        "name": "Golden Pheasant",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3110468,
+              27.6738603
+            ],
+            [
+              85.3110257,
+              27.6738212
+            ],
+            [
+              85.3111092,
+              27.6737874
+            ],
+            [
+              85.31113,
+              27.6738278
+            ],
+            [
+              85.3110468,
+              27.6738603
+            ]
+          ]
+        ]
+      },
+      "id": "way/1131090615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1131090616",
+        "attraction": "animal",
+        "name": "Jackal",
+        "natural": "sand",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3109613,
+              27.6736249
+            ],
+            [
+              85.3110058,
+              27.6737295
+            ],
+            [
+              85.3107846,
+              27.6737996
+            ],
+            [
+              85.3107399,
+              27.6737013
+            ],
+            [
+              85.3109613,
+              27.6736249
+            ]
+          ]
+        ]
+      },
+      "id": "way/1131090616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1131090617",
+        "attraction": "animal",
+        "name": "Ring-necked Pheasant",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3111314,
+              27.6738271
+            ],
+            [
+              85.311111,
+              27.6737865
+            ],
+            [
+              85.3111803,
+              27.6737594
+            ],
+            [
+              85.3111997,
+              27.6737997
+            ],
+            [
+              85.3111314,
+              27.6738271
+            ]
+          ]
+        ]
+      },
+      "id": "way/1131090617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1131090618",
+        "attraction": "animal",
+        "name": "Red Panda",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3109372,
+              27.6738569
+            ],
+            [
+              85.310956,
+              27.6738993
+            ],
+            [
+              85.3108644,
+              27.6739311
+            ],
+            [
+              85.3108457,
+              27.6738887
+            ],
+            [
+              85.3109372,
+              27.6738569
+            ]
+          ]
+        ]
+      },
+      "id": "way/1131090618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1131090621",
+        "attraction": "animal",
+        "name": "Black-headed ibis",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3115408,
+              27.6741303
+            ],
+            [
+              85.3115256,
+              27.6740867
+            ],
+            [
+              85.3115695,
+              27.6740692
+            ],
+            [
+              85.3115872,
+              27.6741114
+            ],
+            [
+              85.3115408,
+              27.6741303
+            ]
+          ]
+        ]
+      },
+      "id": "way/1131090621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1131090623",
+        "attraction": "animal",
+        "name": "Alexandrine Parakeet",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3114865,
+              27.6741529
+            ],
+            [
+              85.3114669,
+              27.6741078
+            ],
+            [
+              85.3115214,
+              27.6740882
+            ],
+            [
+              85.3115371,
+              27.6741312
+            ],
+            [
+              85.3114865,
+              27.6741529
+            ]
+          ]
+        ]
+      },
+      "id": "way/1131090623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1131090624",
+        "attraction": "animal",
+        "name": "Sulphur-Crested Cockatoo",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3113205,
+              27.6742153
+            ],
+            [
+              85.3112865,
+              27.674162
+            ],
+            [
+              85.3113383,
+              27.6741453
+            ],
+            [
+              85.311364,
+              27.6741982
+            ],
+            [
+              85.3113205,
+              27.6742153
+            ]
+          ]
+        ]
+      },
+      "id": "way/1131090624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1131090625",
+        "attraction": "animal",
+        "name": "Peach faced lovebird",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3110967,
+              27.6743387
+            ],
+            [
+              85.3110513,
+              27.67426
+            ],
+            [
+              85.3110954,
+              27.6742361
+            ],
+            [
+              85.3111413,
+              27.6743183
+            ],
+            [
+              85.3110967,
+              27.6743387
+            ]
+          ]
+        ]
+      },
+      "id": "way/1131090625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1131090626",
+        "attraction": "animal",
+        "name": "Danfe",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3108906,
+              27.674326
+            ],
+            [
+              85.310933,
+              27.6744084
+            ],
+            [
+              85.3108585,
+              27.6744378
+            ],
+            [
+              85.3108152,
+              27.6743524
+            ],
+            [
+              85.3108906,
+              27.674326
+            ]
+          ]
+        ]
+      },
+      "id": "way/1131090626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1131090627",
+        "attraction": "animal",
+        "name": "Common Peafowl",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3108128,
+              27.6743532
+            ],
+            [
+              85.3108576,
+              27.6744379
+            ],
+            [
+              85.3107833,
+              27.6744664
+            ],
+            [
+              85.3107358,
+              27.674378
+            ],
+            [
+              85.3108128,
+              27.6743532
+            ]
+          ]
+        ]
+      },
+      "id": "way/1131090627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1131090628",
+        "attraction": "animal",
+        "name": "Kalij Pheasant",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3107346,
+              27.6743784
+            ],
+            [
+              85.3107811,
+              27.674467
+            ],
+            [
+              85.3107253,
+              27.6744879
+            ],
+            [
+              85.3106799,
+              27.6743976
+            ],
+            [
+              85.3107346,
+              27.6743784
+            ]
+          ]
+        ]
+      },
+      "id": "way/1131090628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1131090629",
+        "attraction": "animal",
+        "name": "Japanese Green Pheasant",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3106765,
+              27.6743984
+            ],
+            [
+              85.3107228,
+              27.6744886
+            ],
+            [
+              85.3106684,
+              27.6745102
+            ],
+            [
+              85.3106216,
+              27.6744193
+            ],
+            [
+              85.3106765,
+              27.6743984
+            ]
+          ]
+        ]
+      },
+      "id": "way/1131090629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1131090630",
+        "attraction": "animal",
+        "name": "Silver pheasant",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3106187,
+              27.6744202
+            ],
+            [
+              85.310666,
+              27.6745111
+            ],
+            [
+              85.3106117,
+              27.6745326
+            ],
+            [
+              85.3105648,
+              27.6744417
+            ],
+            [
+              85.3106187,
+              27.6744202
+            ]
+          ]
+        ]
+      },
+      "id": "way/1131090630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1131090632",
+        "attraction": "animal",
+        "name": "Silver pheasant",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.310563,
+              27.6744424
+            ],
+            [
+              85.3106104,
+              27.6745333
+            ],
+            [
+              85.3105654,
+              27.6745516
+            ],
+            [
+              85.3105174,
+              27.6744612
+            ],
+            [
+              85.310563,
+              27.6744424
+            ]
+          ]
+        ]
+      },
+      "id": "way/1131090632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1131090633",
+        "attraction": "animal",
+        "name": "Saras Crane",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3105157,
+              27.6744619
+            ],
+            [
+              85.3105636,
+              27.6745523
+            ],
+            [
+              85.3104729,
+              27.6745881
+            ],
+            [
+              85.3104249,
+              27.6744976
+            ],
+            [
+              85.3105157,
+              27.6744619
+            ]
+          ]
+        ]
+      },
+      "id": "way/1131090633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1131090634",
+        "attraction": "animal",
+        "name": "Ruddy Shelduck",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3104229,
+              27.674498
+            ],
+            [
+              85.3104716,
+              27.6745886
+            ],
+            [
+              85.3103874,
+              27.6746216
+            ],
+            [
+              85.3103427,
+              27.6745301
+            ],
+            [
+              85.3104229,
+              27.674498
+            ]
+          ]
+        ]
+      },
+      "id": "way/1131090634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1131090635",
+        "attraction": "animal",
+        "name": "Chimpanzee",
+        "natural": "grassland",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3098373,
+              27.6740393
+            ],
+            [
+              85.3097506,
+              27.6739127
+            ],
+            [
+              85.3099641,
+              27.6738247
+            ],
+            [
+              85.3100164,
+              27.673961
+            ],
+            [
+              85.3098373,
+              27.6740393
+            ]
+          ]
+        ]
+      },
+      "id": "way/1131090635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1936280991",
+        "name": "Jyapu Niwas",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3350586,
+          27.6825671
+        ]
+      },
+      "id": "node/1936280991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1942507475",
+        "historic": "monument",
+        "name": "Lion statue",
+        "tourism": "attraction",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.42898,
+          27.6721039
+        ]
+      },
+      "id": "node/1942507475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2054092038",
+        "historic": "monument",
+        "name": "Tallest Statue of Shiva",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4742062,
+          27.6460823
+        ]
+      },
+      "id": "node/2054092038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2060240290",
+        "amenity": "place_of_worship",
+        "historic": "monument",
+        "name": "Statue of Sleeping Narayan",
+        "religion": "hindu",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4312982,
+          27.6765998
+        ]
+      },
+      "id": "node/2060240290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2230569085",
+        "name": "पाटन दरवार क्षेत्र",
+        "name:en": "Patan Durbar Square",
+        "name:hi": "पाटन दरबार चौक",
+        "tourism": "attraction",
+        "wikidata": "Q7144236",
+        "wikipedia": "en:Patan Durbar Square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3250562,
+          27.6733988
+        ]
+      },
+      "id": "node/2230569085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4121409191",
+        "addr:street": "Sai Ram Marga",
+        "email": "getme_max@hotmail.com",
+        "name": "Er. Abeey Poudel Flat",
+        "name:en": "Er. Abhiyan Poudel Flat",
+        "opening_hours": "Su-Fr 10:00-22:00",
+        "phone": "+9779851055745",
+        "tourism": "attraction",
+        "website": "www.buildup.com.np"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3397631,
+          27.7492953
+        ]
+      },
+      "id": "node/4121409191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4168500390",
+        "addr:city": "Kathmandu",
+        "addr:postcode": "44600",
+        "addr:street": "Balaju, Manamaiju",
+        "name": "Manamaiju Ajima Mai Temple",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3121403,
+          27.7520771
+        ]
+      },
+      "id": "node/4168500390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4284551294",
+        "addr:street": "Kalanki Chowk",
+        "name": "S-Style Dance Institute",
+        "opening_hours": "Su-Fr 06:00-19:00",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.282051,
+          27.6932073
+        ]
+      },
+      "id": "node/4284551294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4285982489",
+        "addr:street": "Sahid Basu Smriti Marga",
+        "name": "Club Galaxy",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2778476,
+          27.6912275
+        ]
+      },
+      "id": "node/4285982489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4309250491",
+        "addr:street": "Krishna marga",
+        "email": "noyel.amr@gmail.com",
+        "name": "Noyel House",
+        "name:hi": "noyel",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "phone": "9867170004",
+        "tourism": "attraction",
+        "website": "http://noyelz.blogspot.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3452556,
+          27.6735715
+        ]
+      },
+      "id": "node/4309250491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4315862893",
+        "name": "Nilopul, Sukedhara",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3494489,
+          27.7313342
+        ]
+      },
+      "id": "node/4315862893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4325931190",
+        "addr:street": "Gorkha Eco Panel Road, Hanumancha",
+        "email": "info@gorkhaecopanel.com",
+        "name": "International Green Developers Nepal",
+        "opening_hours": "24/7",
+        "phone": "5122026",
+        "tourism": "attraction",
+        "website": "http://gorkhaecopanel.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4428107,
+          27.6670906
+        ]
+      },
+      "id": "node/4325931190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4340563298",
+        "name": "Barpipal",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3894192,
+          27.6327089
+        ]
+      },
+      "id": "node/4340563298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4344434292",
+        "addr:street": "Lachhi, Khokana",
+        "name": "Dey Pukhu",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2982033,
+          27.6360023
+        ]
+      },
+      "id": "node/4344434292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4344434491",
+        "name": "Khaa Pukhu",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3005298,
+          27.6362434
+        ]
+      },
+      "id": "node/4344434491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4344434603",
+        "name": "Jitapur Gandhakuti Vihar",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2994751,
+          27.6354367
+        ]
+      },
+      "id": "node/4344434603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348472318",
+        "name": "Trisuldanda",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4543074,
+          27.7105508
+        ]
+      },
+      "id": "node/4348472318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4367121991",
+        "addr:street": "Chok;Bhainsepati",
+        "amenity": "police",
+        "name:en": "Police Station;Bhainsepati Chok",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3049255,
+          27.6526752
+        ]
+      },
+      "id": "node/4367121991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4370635890",
+        "addr:street": "Saraswati Marga",
+        "name": "Florid human resources",
+        "opening_hours": "Su-Fr 10:00-22:00",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3320967,
+          27.6909767
+        ]
+      },
+      "id": "node/4370635890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4374460896",
+        "addr:street": "Museum marg",
+        "name": "Incessant Rain Animation Studio",
+        "opening_hours": "24/7",
+        "phone": "014302445",
+        "tourism": "attraction",
+        "website": "https://www.incessantrain.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2970221,
+          27.7038178
+        ]
+      },
+      "id": "node/4374460896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4375878590",
+        "name:en": "Itakhel",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.472614,
+          27.7176395
+        ]
+      },
+      "id": "node/4375878590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4388527091",
+        "name": "वसन्तपुर दरबार क्षेत्र",
+        "name:ar": "ساحة دوربار كاتماندو",
+        "name:de": "Kathmandu Durbar Square",
+        "name:en": "Basantapur Durbar Square",
+        "name:hi": "काठमांडू दरबार चौक",
+        "name:ko": "더르바르 광장",
+        "place": "square",
+        "toilets:wheelchair": "no",
+        "tourism": "attraction",
+        "wheelchair": "no",
+        "wikidata": "Q6122177",
+        "wikipedia": "en:Kathmandu Durbar Square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3069725,
+          27.7045198
+        ]
+      },
+      "id": "node/4388527091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4404499990",
+        "addr:street": "Purano Thimi- Naya Thimi",
+        "name:en": "Paati Bihar",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3884919,
+          27.6820845
+        ]
+      },
+      "id": "node/4404499990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4411936790",
+        "addr:housenumber": "9863644073",
+        "addr:street": "Jorpati Main Road",
+        "name": "Jorpati Main Road",
+        "name:en": "Posh Fashionista Boutique",
+        "opening_hours": "Mo-Su 08:00-19:30",
+        "shop": "clothes",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3726342,
+          27.7219112
+        ]
+      },
+      "id": "node/4411936790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4429088091",
+        "name:en": "Nagarkot Eco Trail",
+        "name:ne": "नगरकोट इको ट्रेल",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.5214208,
+          27.7206449
+        ]
+      },
+      "id": "node/4429088091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4429160189",
+        "name:en": "Start of village walk (kartike)",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.5154378,
+          27.731879
+        ]
+      },
+      "id": "node/4429160189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4440023291",
+        "building": "temple",
+        "name": "पशुपतीनाथ",
+        "name:en": "Pashupatinath Temple",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3487444,
+          27.7105652
+        ]
+      },
+      "id": "node/4440023291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4443907289",
+        "addr:street": "Tokha Road",
+        "name:en": "surya narayan shrestha niwas",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3191063,
+          27.7366879
+        ]
+      },
+      "id": "node/4443907289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4476183189",
+        "name": "Scarf of life",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3122221,
+          27.7112735
+        ]
+      },
+      "id": "node/4476183189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4513000189",
+        "name:en": "RADAEC",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3090695,
+          27.6779155
+        ]
+      },
+      "id": "node/4513000189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4513813689",
+        "name:en": "Sanga Gate",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4773779,
+          27.6419507
+        ]
+      },
+      "id": "node/4513813689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4523101790",
+        "email": "shangrilacashmere@gmail.com",
+        "name:en": "Shangrila Silk and Pashmina",
+        "opening_hours": "Su-Fr 09:00-17:00",
+        "phone": "+9774370776",
+        "tourism": "attraction",
+        "website": "http://shangrilacashmere.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3540069,
+          27.7465803
+        ]
+      },
+      "id": "node/4523101790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4533176868",
+        "building": "yes",
+        "historic": "monument",
+        "name": "Hyumat",
+        "name:ko": "휴맛",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3039574,
+          27.6994087
+        ]
+      },
+      "id": "node/4533176868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4549870289",
+        "name:en": "Haktole",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3298433,
+          27.6683922
+        ]
+      },
+      "id": "node/4549870289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4567268393",
+        "addr:street": "Kalanki Chowk",
+        "name:en": "S-Style Dance Institute",
+        "opening_hours": "Su-Fr 06:00-19:00",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2807383,
+          27.6940828
+        ]
+      },
+      "id": "node/4567268393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4574290292",
+        "addr:housenumber": "60",
+        "addr:postcode": "600001",
+        "addr:street": "Manamati Marg",
+        "name:en": "Kohinoor Hill Housing Bafal",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2855631,
+          27.6973407
+        ]
+      },
+      "id": "node/4574290292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4579208890",
+        "name:en": "Sarike",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3547341,
+          27.7296379
+        ]
+      },
+      "id": "node/4579208890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4582351699",
+        "leisure": "sports_centre",
+        "name": "Go Kart",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3026952,
+          27.6787978
+        ]
+      },
+      "id": "node/4582351699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4593866689",
+        "name:en": "Planning",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4046707,
+          27.6435214
+        ]
+      },
+      "id": "node/4593866689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4616139789",
+        "name:en": "Subisu Customer Care",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3314464,
+          27.724969
+        ]
+      },
+      "id": "node/4616139789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4666694589",
+        "addr:street": "Naya Bato",
+        "name:en": "7L Snooker",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "phone": "9818855866",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3011892,
+          27.6748629
+        ]
+      },
+      "id": "node/4666694589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4677662989",
+        "name:en": "ghar balwapati",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3181187,
+          27.7503466
+        ]
+      },
+      "id": "node/4677662989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4686199738",
+        "addr:housenumber": "171/53",
+        "addr:postcode": "977",
+        "addr:street": "Bhimsen Marga",
+        "email": "mail@prizmadigital.com",
+        "name:en": "Prizma Digital Media",
+        "opening_hours": "24/7",
+        "phone": "9861288314",
+        "tourism": "attraction",
+        "website": "https://www.prizmadigital.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3352484,
+          27.7198217
+        ]
+      },
+      "id": "node/4686199738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4687966890",
+        "name:en": "BHANDARI HOME",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3744119,
+          27.6974354
+        ]
+      },
+      "id": "node/4687966890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4699485091",
+        "addr:street": "Dhobidhara Marga",
+        "email": "sharmabhuahan@hotmail.com",
+        "name:en": "Solution Wizard Services",
+        "opening_hours": "Su-Fr 09:00-18:00",
+        "phone": "9841265920",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3230087,
+          27.7060516
+        ]
+      },
+      "id": "node/4699485091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4723573589",
+        "addr:housenumber": "143",
+        "addr:postcode": "00779",
+        "addr:street": "Gauri Marga",
+        "email": "www.road2model@gmail.com",
+        "name:en": "Road 2 Model",
+        "opening_hours": "Su-Fr",
+        "phone": "9779860712637",
+        "tourism": "attraction",
+        "website": "http://www.road2model.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3500226,
+          27.689279
+        ]
+      },
+      "id": "node/4723573589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4727950189",
+        "addr:street": "Sunkothi to Nakhu river Road",
+        "name:en": "Kantipur Colony",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3133458,
+          27.6467447
+        ]
+      },
+      "id": "node/4727950189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4760051522",
+        "name:en": "Transport nagar",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2882238,
+          27.7198431
+        ]
+      },
+      "id": "node/4760051522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4770653126",
+        "name:en": "Rock climbing crag",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2580172,
+          27.6368202
+        ]
+      },
+      "id": "node/4770653126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4790943724",
+        "addr:street": "Narayan Chaur",
+        "name:en": "Golchha Organisation",
+        "opening_hours": "Su-Fr 10:00-18:00",
+        "tourism": "attraction",
+        "website": "https://www.himelectronics.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3249789,
+          27.7154193
+        ]
+      },
+      "id": "node/4790943724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4796454223",
+        "addr:street": "khokana dobato to khokana",
+        "name:en": "Pal pukhu",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3004755,
+          27.6358912
+        ]
+      },
+      "id": "node/4796454223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4821721032",
+        "addr:postcode": "44600",
+        "addr:street": "Aghnishala Road, Kumaripati",
+        "email": "info@rlc.com.np",
+        "name:en": "Rosemary Legal Consultancy Pvt. Ltd.",
+        "opening_hours": "Su-Fr 10:00-17:00",
+        "phone": "+9779849592016",
+        "tourism": "attraction",
+        "website": "https://rlc.com.np/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3206349,
+          27.6707842
+        ]
+      },
+      "id": "node/4821721032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4831086825",
+        "name:en": "watch tower",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.305339,
+          27.655847
+        ]
+      },
+      "id": "node/4831086825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4854814821",
+        "name:en": "Mega TV",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2974537,
+          27.7242385
+        ]
+      },
+      "id": "node/4854814821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4858889921",
+        "name:en": "Loom Nepal",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3217052,
+          27.6883076
+        ]
+      },
+      "id": "node/4858889921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4869611921",
+        "addr:housenumber": "3",
+        "addr:street": "Lolang hight",
+        "email": "bhandariashish1997@gmail.com",
+        "name:en": "Bhandari Niwas",
+        "tourism": "attraction",
+        "website": "https://www.destinationmanagementinc.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2946422,
+          27.7489803
+        ]
+      },
+      "id": "node/4869611921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4879606121",
+        "name:en": "Khari Dadda",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3451523,
+          27.7038262
+        ]
+      },
+      "id": "node/4879606121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4907151222",
+        "name:en": "bijeswari",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.296755,
+          27.7130366
+        ]
+      },
+      "id": "node/4907151222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4909216229",
+        "name:en": "Build Nepa",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2999765,
+          27.743785
+        ]
+      },
+      "id": "node/4909216229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4921505921",
+        "addr:street": "Araniko Raj Marga",
+        "email": "noyel.amr@gmail.com",
+        "name:en": "Noyel's stay house2",
+        "opening_hours": "24/7",
+        "phone": "9867170004",
+        "tourism": "attraction",
+        "website": "http://noyelz.blogspot.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3715638,
+          27.6753224
+        ]
+      },
+      "id": "node/4921505921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4930120521",
+        "name:en": "kishor sir ko office",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3322358,
+          27.6841114
+        ]
+      },
+      "id": "node/4930120521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4932406622",
+        "name:en": "FYI Nepal",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3712333,
+          27.7187173
+        ]
+      },
+      "id": "node/4932406622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4933481921",
+        "name:en": "Birat Pun's Home",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3099934,
+          27.6638414
+        ]
+      },
+      "id": "node/4933481921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4947077421",
+        "name:en": "aircraft on display",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3533161,
+          27.6944229
+        ]
+      },
+      "id": "node/4947077421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5006184021",
+        "addr:housenumber": "1343/40",
+        "addr:street": "Dhapasi Marg",
+        "name:en": "Anantaashram, House #1343/40",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3409352,
+          27.7464017
+        ]
+      },
+      "id": "node/5006184021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5009767235",
+        "addr:city": "kathmandu",
+        "name": "Nagpokhari",
+        "name:en": "Nag Pokhari",
+        "tourism": "attraction",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.324369,
+          27.713488
+        ]
+      },
+      "id": "node/5009767235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5030486921",
+        "addr:street": "Sunakothi Chautara",
+        "name:en": "Bishal's Niwas",
+        "tourism": "attraction",
+        "website": "https://www.facebook.com/peaceheaven"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3184662,
+          27.6290777
+        ]
+      },
+      "id": "node/5030486921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5050746521",
+        "addr:postcode": "44600",
+        "addr:street": "Aghnishala Road, Kumaripati",
+        "email": "info@rlc.com.np",
+        "name:en": "Rosemary Legal Consultancy Pvt. Ltd.",
+        "opening_hours": "Su-Fr 10:00-17:00",
+        "phone": "+97715008769",
+        "tourism": "attraction",
+        "website": "https://rlc.com.np/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3205657,
+          27.670798
+        ]
+      },
+      "id": "node/5050746521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5123458524",
+        "name:en": "Anchita ko shit room",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3296136,
+          27.7004289
+        ]
+      },
+      "id": "node/5123458524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5125706822",
+        "addr:housenumber": "238-25",
+        "addr:street": "shanti goreto",
+        "name:en": "Saurabh's Home",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3485618,
+          27.7200627
+        ]
+      },
+      "id": "node/5125706822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5141971022",
+        "name:en": "Entryway",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.32493,
+          27.6727375
+        ]
+      },
+      "id": "node/5141971022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5195545426",
+        "addr:housenumber": "141",
+        "addr:postcode": "44600",
+        "addr:street": "Shivasankar Galli",
+        "email": "info@vape977.com",
+        "name:en": "Vape977",
+        "opening_hours": "Mo-Su 22:00-20:00",
+        "phone": "9851299996",
+        "tourism": "attraction",
+        "website": "https://www.vape977.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.31163,
+          27.721136
+        ]
+      },
+      "id": "node/5195545426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204356222",
+        "addr:street": "Ram Shah Path (पुतलीसडक)",
+        "name:en": "Putali Sadak Chock पुतली सडक चोक ६६७",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3228409,
+          27.7056025
+        ]
+      },
+      "id": "node/5204356222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5242329147",
+        "name:en": "Destination",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3718744,
+          27.6480222
+        ]
+      },
+      "id": "node/5242329147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5242329148",
+        "name:en": "Jamshikhel Chowk",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3097935,
+          27.6788674
+        ]
+      },
+      "id": "node/5242329148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5255593921",
+        "addr:street": "Uthujhol",
+        "name:en": "Ujwol's Home",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3190324,
+          27.6330973
+        ]
+      },
+      "id": "node/5255593921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5280869325",
+        "name:en": "Gankhu dharmapur besi",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.400804,
+          27.6863679
+        ]
+      },
+      "id": "node/5280869325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5280998725",
+        "name:en": "Gankhu dharamapur height",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3971294,
+          27.6854651
+        ]
+      },
+      "id": "node/5280998725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5280998726",
+        "name": "Gankhu dharamapur dol",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3947658,
+          27.6861196
+        ]
+      },
+      "id": "node/5280998726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5284269723",
+        "name:en": "Purano Baneshwar Chok पुरानो बानेश्वर चोक ६६७",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3402447,
+          27.7014812
+        ]
+      },
+      "id": "node/5284269723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5300586224",
+        "name:en": "saildaiko mit house",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3155587,
+          27.6750718
+        ]
+      },
+      "id": "node/5300586224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5302486521",
+        "addr:street": "Way to Nagarkot",
+        "name:en": "Buddha peace garden",
+        "name:fr": "Buddha peace garden",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.5023611,
+          27.7095432
+        ]
+      },
+      "id": "node/5302486521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5302729521",
+        "name:en": "Baudha Gate",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3618807,
+          27.7206893
+        ]
+      },
+      "id": "node/5302729521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5325163022",
+        "name:en": "Home",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3245407,
+          27.6703075
+        ]
+      },
+      "id": "node/5325163022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5349710327",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4689605,
+          27.7155068
+        ]
+      },
+      "id": "node/5349710327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5404941026",
+        "addr:street": "Way to Ashapuri",
+        "name:en": "Sanga--Panauti hiking starting point",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4778694,
+          27.6416413
+        ]
+      },
+      "id": "node/5404941026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5416398821",
+        "addr:street": "community hiking trail",
+        "name:en": "Community hiking point",
+        "phone": "+9779841432703",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4778709,
+          27.6416712
+        ]
+      },
+      "id": "node/5416398821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5431546021",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3697527,
+          27.7239102
+        ]
+      },
+      "id": "node/5431546021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5463896523",
+        "name:en": "Safala didi",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4055242,
+          27.7205469
+        ]
+      },
+      "id": "node/5463896523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5488969824",
+        "name:en": "One tree hill",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.299785,
+          27.6429562
+        ]
+      },
+      "id": "node/5488969824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5543530921",
+        "addr:street": "Sanrachana Marg",
+        "name:en": "Sunil Dawadi's House",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2832512,
+          27.6926344
+        ]
+      },
+      "id": "node/5543530921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5555112522",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3110329,
+          27.7105785
+        ]
+      },
+      "id": "node/5555112522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5572766223",
+        "addr:street": "Mahadevasthan Marga",
+        "name:en": "Madan Bhandari Memorial Park",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3430933,
+          27.6814004
+        ]
+      },
+      "id": "node/5572766223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5574956422",
+        "name:en": "Murtighar Shrestha Nirman Sewa",
+        "phone": "016631320",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3803012,
+          27.6736941
+        ]
+      },
+      "id": "node/5574956422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5599095623",
+        "name": "Thamel Chowk",
+        "name:ko": "타멜촉",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3113761,
+          27.7143416
+        ]
+      },
+      "id": "node/5599095623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5619165823",
+        "name:en": "cheda pipal bot chautari",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3076683,
+          27.6134911
+        ]
+      },
+      "id": "node/5619165823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5632423521",
+        "addr:street": "chhampi",
+        "name:en": "football ground",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3134816,
+          27.6023303
+        ]
+      },
+      "id": "node/5632423521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5656895033",
+        "name:en": "Public park to free entrance to Pashupatinath",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.349554,
+          27.7128514
+        ]
+      },
+      "id": "node/5656895033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5660618321",
+        "name:en": "Milan Chok",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2820427,
+          27.687507
+        ]
+      },
+      "id": "node/5660618321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5677956022",
+        "name:ko": "스왐부나트 템플 멍키",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2885761,
+          27.7156735
+        ]
+      },
+      "id": "node/5677956022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5742410821",
+        "name:en": "Pipal Bot",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3099876,
+          27.6994339
+        ]
+      },
+      "id": "node/5742410821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5803936554",
+        "addr:city": "Kathmandu",
+        "addr:postcode": "44600",
+        "addr:street": "J.P. Road",
+        "description": "We are Motorbike Tour & Rental company with team of experienced mechanics who are in service more than 35 years in Thamel, Kathmandu, Nepal",
+        "name": "City motorbike",
+        "start_date": "2014",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3098672,
+          27.7118564
+        ]
+      },
+      "id": "node/5803936554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5810478653",
+        "name:en": "Raju dai newari",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3054059,
+          27.7014725
+        ]
+      },
+      "id": "node/5810478653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5876521486",
+        "addr:street": "pimbahal",
+        "name:en": "Pimbahal",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3208055,
+          27.6764034
+        ]
+      },
+      "id": "node/5876521486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6013184887",
+        "name:en": "Bhagawati Kafle Home",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3319459,
+          27.6989821
+        ]
+      },
+      "id": "node/6013184887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6017997198",
+        "name:en": "Jotell",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3094481,
+          27.7172087
+        ]
+      },
+      "id": "node/6017997198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6048863186",
+        "name:en": "Dasrath Chand Path",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2783182,
+          27.7004162
+        ]
+      },
+      "id": "node/6048863186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6048864385",
+        "name:en": "Gangalal Path",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2791966,
+          27.6998559
+        ]
+      },
+      "id": "node/6048864385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6048864387",
+        "name:en": "Dharma Bhakta Path",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.279123,
+          27.7005042
+        ]
+      },
+      "id": "node/6048864387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6052389400",
+        "addr:city": "Kathmandu",
+        "addr:housenumber": "Market Mall",
+        "addr:postcode": "44600",
+        "addr:street": "Jyatha Street",
+        "description": "Probably the best hangout in Kathmandu and undoubtedly the best coffee, fusion food and fair trade gift items in Thamel. Combines Karma coffee and Socialtours into a space of conscious travel, food, products and coffee",
+        "name": "HUB",
+        "operator": "socialtours.com pvt ltd",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+977 9801123401",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3124162,
+          27.713693
+        ]
+      },
+      "id": "node/6052389400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6100209886",
+        "addr:street": "chyasal to patan durbar square",
+        "name:en": "Müchhé Agam Ghar",
+        "name:hi": "मूछेँ ऑगम घर",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3257224,
+          27.6737379
+        ]
+      },
+      "id": "node/6100209886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6117286485",
+        "name:en": "Toya Nath Baral House main",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3452825,
+          27.6938622
+        ]
+      },
+      "id": "node/6117286485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6147290786",
+        "name:en": "Sanga Pond",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4775573,
+          27.6421252
+        ]
+      },
+      "id": "node/6147290786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6280661490",
+        "name:en": "Rajan home",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.446673,
+          27.6707971
+        ]
+      },
+      "id": "node/6280661490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6300568888",
+        "addr:street": "baneshwor",
+        "name:en": "planet music",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3352649,
+          27.6862558
+        ]
+      },
+      "id": "node/6300568888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6300570585",
+        "addr:street": "sainbu",
+        "name:en": "naya bazar",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3050946,
+          27.6480196
+        ]
+      },
+      "id": "node/6300570585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6300571085",
+        "addr:street": "Bhainsepati awas",
+        "name:en": "grace hotel",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3040597,
+          27.6541379
+        ]
+      },
+      "id": "node/6300571085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6313599287",
+        "addr:street": "khumaltar",
+        "name:en": "phoolbari marga",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3208164,
+          27.6497596
+        ]
+      },
+      "id": "node/6313599287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6313600485",
+        "addr:street": "khumaltar",
+        "name:en": "trinity hotel & cafe",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3211086,
+          27.6499409
+        ]
+      },
+      "id": "node/6313600485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6338052387",
+        "name:zh": "杜巴广场",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3083226,
+          27.7043742
+        ]
+      },
+      "id": "node/6338052387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6348676385",
+        "name:en": "Nasal Chok",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3075388,
+          27.7042318
+        ]
+      },
+      "id": "node/6348676385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6348676386",
+        "name:en": "Mul Chok",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3078364,
+          27.7042621
+        ]
+      },
+      "id": "node/6348676386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6348849285",
+        "name:en": "Lohan Chok",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3078016,
+          27.7040078
+        ]
+      },
+      "id": "node/6348849285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6408277986",
+        "name:en": "Hotel",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3118785,
+          27.7334633
+        ]
+      },
+      "id": "node/6408277986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6458134885",
+        "name:de": "Eingang nationaler botanischer Garten",
+        "name:en": "Entry national botanical garden",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3832727,
+          27.5969944
+        ]
+      },
+      "id": "node/6458134885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6521021153",
+        "name": "Gokarna Mahadev Temple",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3880833,
+          27.7396087
+        ]
+      },
+      "id": "node/6521021153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6521083003",
+        "name": "Boudha Stupa",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3620735,
+          27.7218093
+        ]
+      },
+      "id": "node/6521083003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6691859885",
+        "name:en": "girija koirala home",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3399414,
+          27.7398659
+        ]
+      },
+      "id": "node/6691859885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6715251386",
+        "name:en": "Itum Bahal",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3083304,
+          27.7066603
+        ]
+      },
+      "id": "node/6715251386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6807710417",
+        "name": "Rani Pokhari",
+        "name:ne": "रानी पोखरी",
+        "tourism": "attraction",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3153148,
+          27.7078115
+        ]
+      },
+      "id": "node/6807710417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6851227787",
+        "name:en": "Patan Durbar Square",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.324765,
+          27.6730303
+        ]
+      },
+      "id": "node/6851227787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6851230785",
+        "name:en": "Patan Durbar Square",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.324808,
+          27.6727257
+        ]
+      },
+      "id": "node/6851230785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6899949387",
+        "name:en": "Yetkha kaju",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3072586,
+          27.7058627
+        ]
+      },
+      "id": "node/6899949387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7293575985",
+        "name:en": "Makalbari",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.384938,
+          27.7307726
+        ]
+      },
+      "id": "node/7293575985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7293576085",
+        "name:en": "Makalbari small bridge",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3846765,
+          27.7310829
+        ]
+      },
+      "id": "node/7293576085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7371671476",
+        "name": "Mohan Chok",
+        "place": "square",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3075665,
+          27.7045724
+        ]
+      },
+      "id": "node/7371671476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7371674706",
+        "addr:street": "Chandraman Maskey Marg",
+        "designation": "Heritage Walk",
+        "junction": "yes",
+        "name": "Indra Chowk",
+        "name:en": "Indra Chowk",
+        "name:ko": "인드라 초크",
+        "name:ne": "इन्द्रचोक",
+        "name:new": "वंघ",
+        "tourism": "attraction",
+        "wikidata": "Q2913856"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3096118,
+          27.7060235
+        ]
+      },
+      "id": "node/7371674706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7715546785",
+        "name:en": "LAND",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3937222,
+          27.6871925
+        ]
+      },
+      "id": "node/7715546785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7819341686",
+        "name:en": "LAND - JAGGA",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.393721,
+          27.6876048
+        ]
+      },
+      "id": "node/7819341686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8009598335",
+        "name": "Changunarayan",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.428356,
+          27.7162258
+        ]
+      },
+      "id": "node/8009598335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8062824789",
+        "addr:postcode": "44600",
+        "addr:street": "Amrit Marg",
+        "name": "HUB",
+        "opening_hours": "Mo-Su 08:00-18:00",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3123826,
+          27.7134398
+        ]
+      },
+      "id": "node/8062824789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8646914919",
+        "name:en": "Old Freak Street",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3069136,
+          27.70344
+        ]
+      },
+      "id": "node/8646914919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8649928618",
+        "addr:street": "Deunani",
+        "name:en": "De chhe",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3560352,
+          27.6469567
+        ]
+      },
+      "id": "node/8649928618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9366440993",
+        "addr:city": "Kathmandu",
+        "addr:country": "NP",
+        "addr:postcode": "44600",
+        "addr:street": "Dathu Sadak",
+        "description": "Heaven Himalaya is a travel company specialized in trekking and peak climbing tours in Nepal. It also offers a wide range of other activities such as day hiking, cultural tours, wildlife safari, jeep tour, whitewater rafting, bungee jump, and other avant-",
+        "email": "info@heavenhimalaya.com",
+        "image": "https://cdn-dcpje.nitrocdn.com/DYMQVJJZiwjhpqwhZJLoovhfmJEUvyWl/assets/static/optimized/rev-217e08e/wp-content/uploads/2020/02/hh-main-logo.png",
+        "name": "Heaven Himalaya",
+        "opening_hours": "24/7",
+        "operator": "Heaven Himalaya",
+        "phone": "01-4357403",
+        "source": "local knowledge;survey;gps",
+        "tourism": "attraction",
+        "website": "https://www.heavenhimalaya.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3050638,
+          27.7194155
+        ]
+      },
+      "id": "node/9366440993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9420316517",
+        "name:en": "Tuppi",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2793364,
+          27.7034776
+        ]
+      },
+      "id": "node/9420316517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9447489417",
+        "name": "Siwangi Pradhan",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.331411,
+          27.7169029
+        ]
+      },
+      "id": "node/9447489417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10012694017",
+        "addr:street": "Dakshinkali-3",
+        "name:en": "Ojaswee multipurpose livestock and organic agriculture Farm",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.27298,
+          27.6199837
+        ]
+      },
+      "id": "node/10012694017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10068876004",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3856611,
+          27.676574
+        ]
+      },
+      "id": "node/10068876004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10068876012",
+        "name": "Balkumari Temple",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3853144,
+          27.6759475
+        ]
+      },
+      "id": "node/10068876012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10068876014",
+        "name": "Dhungedhara",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3850274,
+          27.6747147
+        ]
+      },
+      "id": "node/10068876014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10081035119",
+        "name": "Siwa Tole",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3867212,
+          27.6777491
+        ]
+      },
+      "id": "node/10081035119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10081035120",
+        "name": "Nigu Pukhu",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3856376,
+          27.678356
+        ]
+      },
+      "id": "node/10081035120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10208815921",
+        "name:en": "Pipal Bot",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2713509,
+          27.6892587
+        ]
+      },
+      "id": "node/10208815921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10211142717",
+        "name:en": "Ingresso serie di cortili tranquilli",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3112875,
+          27.709311
+        ]
+      },
+      "id": "node/10211142717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10716453806",
+        "addr:street": "Lubhu",
+        "name:en": "Natural Gas Lubhu",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3669736,
+          27.6445818
+        ]
+      },
+      "id": "node/10716453806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10796694209",
+        "name:en": "No way",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3228608,
+          27.6752197
+        ]
+      },
+      "id": "node/10796694209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10796694210",
+        "name:en": "Right way",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3227447,
+          27.6752004
+        ]
+      },
+      "id": "node/10796694210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10799787706",
+        "name:en": "Entrance",
+        "name:ru": "Вход из Тамеля в Сваямбуднатх, закройте сумки и не кормите обезьян",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2929885,
+          27.7144457
+        ]
+      },
+      "id": "node/10799787706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10887146920",
+        "name:en": "Dunkmandu",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3699447,
+          27.7340348
+        ]
+      },
+      "id": "node/10887146920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11001760906",
+        "name:en": "Pine Trees",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4839759,
+          27.7088916
+        ]
+      },
+      "id": "node/11001760906"
+    }
+  ]

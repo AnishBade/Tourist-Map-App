@@ -1,4 +1,4 @@
-
+//This file is for testing purpose
 import "leaflet/dist/leaflet.css";
 import MapList from './MapList';
 import {MapContainer, TileLayer, Marker, Popup} from "react-leaflet"

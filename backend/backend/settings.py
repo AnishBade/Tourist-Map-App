@@ -56,7 +56,7 @@ MIDDLEWARE = [
     "django.contrib.auth.middleware.AuthenticationMiddleware",
     "django.contrib.messages.middleware.MessageMiddleware",
     "django.middleware.clickjacking.XFrameOptionsMiddleware",
-    'corsheaders.middleware.CorsMiddleware',
+    'corsheaders.middleware.CorsMiddleware', #added
 ]
 
 ROOT_URLCONF = "backend.urls"
@@ -85,7 +85,7 @@ WSGI_APPLICATION = "backend.wsgi.application"
 
 DATABASES = {
     "default": {
-        'ENGINE': 'django.contrib.gis.db.backends.postgis',
+        'ENGINE': 'django.contrib.gis.db.backends.postgis', #this engine because we use postgis to store spatial data in postgresql
         "NAME": "kll",
         "USER": 'anish',
             "PASSWORD": 'pa$$word',
@@ -141,9 +141,10 @@ REST_FRAMEWORK = { # new
 ],
 }
 
+
+#allow cors for sharing resources between django and react ports
 CORS_ALLOWED_ORIGINS = [
     'http://127.0.0.1:8000',
     'http://127.0.0.1:3000',
 ]
 
-GDAL_LIBRARY_PATH = '/usr/bin/gdal-config'

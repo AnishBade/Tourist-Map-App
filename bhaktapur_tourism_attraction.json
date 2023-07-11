@@ -1,0 +1,687 @@
+  [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/186264410",
+        "addr:city": "Changu Narayan",
+        "amenity": "place_of_worship",
+        "building": "temple",
+        "denomination": "hindu",
+        "heritage": "1",
+        "heritage:operator": "whc",
+        "historic": "monument",
+        "name": "Changu Narayan Temple",
+        "name:ne": "चाँगुनारायण मन्दिर",
+        "ref:whc": "121-007",
+        "religion": "hindu",
+        "tourism": "attraction",
+        "whc:criteria": "(iii)(iv)(vi)",
+        "whc:inscription_date": "1979",
+        "wikidata": "Q1062150",
+        "wikipedia": "en:Changu Narayan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.4278782,
+              27.7164901
+            ],
+            [
+              85.4278453,
+              27.7163616
+            ],
+            [
+              85.4279885,
+              27.7163329
+            ],
+            [
+              85.4280213,
+              27.7164614
+            ],
+            [
+              85.4278782,
+              27.7164901
+            ]
+          ]
+        ]
+      },
+      "id": "way/186264410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/211080700",
+        "amenity": "place_of_worship",
+        "building": "temple",
+        "height": "3.68",
+        "name": "Rameshwar temple",
+        "religion": "hindu",
+        "source": "planetware.com",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.4273683,
+              27.6722929
+            ],
+            [
+              85.4273659,
+              27.6722364
+            ],
+            [
+              85.4274165,
+              27.6722348
+            ],
+            [
+              85.4274189,
+              27.6722912
+            ],
+            [
+              85.4273683,
+              27.6722929
+            ]
+          ]
+        ]
+      },
+      "id": "way/211080700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/211080701",
+        "amenity": "place_of_worship",
+        "building": "temple",
+        "height": "3.01",
+        "name": "Rameshwar temple",
+        "religion": "hindu",
+        "source": "planetware.com",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.4274428,
+              27.6722796
+            ],
+            [
+              85.4274428,
+              27.6722414
+            ],
+            [
+              85.4274766,
+              27.6722414
+            ],
+            [
+              85.4274766,
+              27.6722796
+            ],
+            [
+              85.4274428,
+              27.6722796
+            ]
+          ]
+        ]
+      },
+      "id": "way/211080701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/211080702",
+        "amenity": "place_of_worship",
+        "building": "temple",
+        "name": "Badrinath Tirtha",
+        "religion": "hindu",
+        "source": "planetware.com",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.4273592,
+              27.6721461
+            ],
+            [
+              85.4273592,
+              27.6721129
+            ],
+            [
+              85.4274042,
+              27.6721129
+            ],
+            [
+              85.4274042,
+              27.6721461
+            ],
+            [
+              85.4273592,
+              27.6721461
+            ]
+          ]
+        ]
+      },
+      "id": "way/211080702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/227958650",
+        "barrier": "fence",
+        "name": "Pilot Baba Ashram",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.4228137,
+              27.6404154
+            ],
+            [
+              85.4226776,
+              27.6406739
+            ],
+            [
+              85.4223178,
+              27.6407256
+            ],
+            [
+              85.4222448,
+              27.6404456
+            ],
+            [
+              85.4226387,
+              27.6403206
+            ],
+            [
+              85.4228137,
+              27.6404154
+            ]
+          ]
+        ]
+      },
+      "id": "way/227958650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/495632745",
+        "building": "yes",
+        "name": "Chyasing Mandap",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.4284728,
+              27.6721198
+            ],
+            [
+              85.4284681,
+              27.6720778
+            ],
+            [
+              85.4284823,
+              27.6720624
+            ],
+            [
+              85.4285296,
+              27.6720582
+            ],
+            [
+              85.4285469,
+              27.6720708
+            ],
+            [
+              85.4285517,
+              27.6721129
+            ],
+            [
+              85.4285375,
+              27.6721284
+            ],
+            [
+              85.4284901,
+              27.6721325
+            ],
+            [
+              85.4284728,
+              27.6721198
+            ]
+          ]
+        ]
+      },
+      "id": "way/495632745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1942507475",
+        "historic": "monument",
+        "name": "Lion statue",
+        "tourism": "attraction",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.42898,
+          27.6721039
+        ]
+      },
+      "id": "node/1942507475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2054092038",
+        "historic": "monument",
+        "name": "Tallest Statue of Shiva",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4742062,
+          27.6460823
+        ]
+      },
+      "id": "node/2054092038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2060240290",
+        "amenity": "place_of_worship",
+        "historic": "monument",
+        "name": "Statue of Sleeping Narayan",
+        "religion": "hindu",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4312982,
+          27.6765998
+        ]
+      },
+      "id": "node/2060240290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4325931190",
+        "addr:street": "Gorkha Eco Panel Road, Hanumancha",
+        "email": "info@gorkhaecopanel.com",
+        "name": "International Green Developers Nepal",
+        "opening_hours": "24/7",
+        "phone": "5122026",
+        "tourism": "attraction",
+        "website": "http://gorkhaecopanel.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4428107,
+          27.6670906
+        ]
+      },
+      "id": "node/4325931190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348472318",
+        "name": "Trisuldanda",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4543074,
+          27.7105508
+        ]
+      },
+      "id": "node/4348472318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4404499990",
+        "addr:street": "Purano Thimi- Naya Thimi",
+        "name:en": "Paati Bihar",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3884919,
+          27.6820845
+        ]
+      },
+      "id": "node/4404499990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4429088091",
+        "name:en": "Nagarkot Eco Trail",
+        "name:ne": "नगरकोट इको ट्रेल",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.5214208,
+          27.7206449
+        ]
+      },
+      "id": "node/4429088091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4593866689",
+        "name:en": "Planning",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4046707,
+          27.6435214
+        ]
+      },
+      "id": "node/4593866689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4921505921",
+        "addr:street": "Araniko Raj Marga",
+        "email": "noyel.amr@gmail.com",
+        "name:en": "Noyel's stay house2",
+        "opening_hours": "24/7",
+        "phone": "9867170004",
+        "tourism": "attraction",
+        "website": "http://noyelz.blogspot.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3715638,
+          27.6753224
+        ]
+      },
+      "id": "node/4921505921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5280869325",
+        "name:en": "Gankhu dharmapur besi",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.400804,
+          27.6863679
+        ]
+      },
+      "id": "node/5280869325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5280998725",
+        "name:en": "Gankhu dharamapur height",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3971294,
+          27.6854651
+        ]
+      },
+      "id": "node/5280998725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5280998726",
+        "name": "Gankhu dharamapur dol",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3947658,
+          27.6861196
+        ]
+      },
+      "id": "node/5280998726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5302486521",
+        "addr:street": "Way to Nagarkot",
+        "name:en": "Buddha peace garden",
+        "name:fr": "Buddha peace garden",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.5023611,
+          27.7095432
+        ]
+      },
+      "id": "node/5302486521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5349710327",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4689605,
+          27.7155068
+        ]
+      },
+      "id": "node/5349710327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5574956422",
+        "name:en": "Murtighar Shrestha Nirman Sewa",
+        "phone": "016631320",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3803012,
+          27.6736941
+        ]
+      },
+      "id": "node/5574956422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6280661490",
+        "name:en": "Rajan home",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.446673,
+          27.6707971
+        ]
+      },
+      "id": "node/6280661490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7715546785",
+        "name:en": "LAND",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3937222,
+          27.6871925
+        ]
+      },
+      "id": "node/7715546785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7819341686",
+        "name:en": "LAND - JAGGA",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.393721,
+          27.6876048
+        ]
+      },
+      "id": "node/7819341686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8009598335",
+        "name": "Changunarayan",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.428356,
+          27.7162258
+        ]
+      },
+      "id": "node/8009598335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10068876004",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3856611,
+          27.676574
+        ]
+      },
+      "id": "node/10068876004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10068876012",
+        "name": "Balkumari Temple",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3853144,
+          27.6759475
+        ]
+      },
+      "id": "node/10068876012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10068876014",
+        "name": "Dhungedhara",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3850274,
+          27.6747147
+        ]
+      },
+      "id": "node/10068876014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10081035119",
+        "name": "Siwa Tole",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3867212,
+          27.6777491
+        ]
+      },
+      "id": "node/10081035119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10081035120",
+        "name": "Nigu Pukhu",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3856376,
+          27.678356
+        ]
+      },
+      "id": "node/10081035120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11001760906",
+        "name:en": "Pine Trees",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4839759,
+          27.7088916
+        ]
+      },
+      "id": "node/11001760906"
+    }
+  ]
