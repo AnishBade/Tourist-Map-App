@@ -15,57 +15,9 @@ export default function ViewMap() {
 
     const {markers} = useContext(MarkersContext);
 
-  //   const [locations,setLocations] = useState([])
-  // useEffect(()=>{
-  //   let mount = true
-  //   getlocation()
-  //   .then(res=>{
-  //   setLocations(res)
-  //   return() => mount =false
-  //   })    
-  // }, [])
-  // const markers = []
-  // for (const obj of locations) {
-  //   // Extract the coordinates from the "coordinates" field
-  //   const regex = /POINT \(([-.\d]+) ([-.\d]+)\)/;
-  //   const match = obj.coordinates.match(regex);
-  //   const latitude = parseFloat(match[1]);
-  //   const longitude = parseFloat(match[2]);
-
-  //   // Create a new object with the extracted coordinates
-  //   const geocode = [latitude, longitude];
-  //   const name = obj.name
-
-  //   // Create the final object
-  //   const finalObject = {
-  //     geocode: geocode,
-  //     name: name
-
-  //   };
-
-  //   markers.push(finalObject);
-
-    
-  // }
 
 
-  const markers1 = [
-    {
-      geocode: [27.71183047029497, 85.34852400276668],
-      name: "Pashupati Temple"
-    }
-    // ,
-    // {
-    //   geocode: [27.704464681781328, 85.30721372739679],
-    //   name: "Hello, I am pop up 2"
-    // },
-    // {
-    //   geocode: [27.706777727283136, 85.31026774027998],
-    //   name: "Hello, I am pop up 3"
-    // }
-  ];
-  // console.log(markers[1]);
-  // console.log(markers1);
+ 
   const customIcon = new Icon({
     iconUrl: require("./img/marker-icon.png"),
     iconSize: [25,25]

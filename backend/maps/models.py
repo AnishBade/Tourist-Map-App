@@ -14,6 +14,24 @@ class Location(models.Model):
     phone = models.CharField(max_length = 100,null=True)
     tourism = models.CharField(max_length=200,null=True)
     website = models.CharField(max_length=200,null=True)
+    ratings = models.ManyToManyField(settings.AUTH_USER_MODEL, through='Rating', related_name='locations', default=0)
+    
 
     def __str__(self):
         return self.name
+    
+class Rating(models.Model):
+    user = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)
+    location = models.ForeignKey(Location, on_delete=models.CASCADE)
+    rating = models.PositiveIntegerField()
+
+    def __str__(self):
+        return f'{self.user.username} - {self.location.name}'
+
+    
+class Image(models.Model):
+    location = models.ForeignKey(Location, on_delete=models.CASCADE, related_name='images')
+    image = models.ImageField(upload_to='images/')
+
+    def __str__(self):
+        return self.image.name
